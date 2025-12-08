@@ -1,0 +1,1101 @@
+C[c] is a
+general-pu
+rpose prog
+ramming la
+nguage. It
+was creat
+ed in the
+1970s by D
+ennis Ritc
+hie and re
+mains wide
+ly used an
+d influent
+ial. By de
+sign, C gi
+ves the pr
+ogrammer r
+elatively
+direct acc
+ess to the
+features
+of the typ
+ical CPU a
+rchitectur
+e, customi
+zed for th
+e target i
+nstruction
+set. It h
+as been an
+d continue
+s to be us
+ed to impl
+ement oper
+ating syst
+ems (espec
+ially kern
+els[10]),
+device dri
+vers, and
+protocol s
+tacks, but
+its use i
+n applicat
+ion softwa
+re has bee
+n decreasi
+ng.[11] C
+is used on
+computers
+that rang
+e from the
+largest s
+upercomput
+ers to the
+smallest
+microcontr
+ollers and
+embedded
+systems. A
+successor
+to the pr
+ogramming
+language B
+, C was or
+iginally d
+eveloped a
+t Bell Lab
+s by Ritch
+ie between
+1972 and
+1973 to co
+nstruct ut
+ilities ru
+nning on U
+nix. It wa
+s applied
+to re-impl
+ementing t
+he kernel
+of the Uni
+x operatin
+g system.[
+12] During
+the 1980s
+, C gradua
+lly gained
+popularit
+y. It has
+become one
+of the mo
+st widely
+used progr
+amming lan
+guages,[13
+][14] with
+C compile
+rs availab
+le for pra
+ctically a
+ll modern
+computer a
+rchitectur
+es and ope
+rating sys
+tems. The
+book The C
+Programmi
+ng Languag
+e, co-auth
+ored by th
+e original
+language
+designer,
+served for
+many year
+s as the d
+e facto st
+andard for
+the langu
+age.[15][1
+] C has be
+en standar
+dized sinc
+e 1989 by
+the Americ
+an Nationa
+l Standard
+s Institut
+e (ANSI) a
+nd, subseq
+uently, jo
+intly by t
+he Interna
+tional Org
+anization
+for Standa
+rdization
+(ISO) and
+the Intern
+ational El
+ectrotechn
+ical Commi
+ssion (IEC
+). C is an
+imperativ
+e procedur
+al languag
+e, support
+ing struct
+ured progr
+amming, le
+xical vari
+able scope
+, and recu
+rsion, wit
+h a static
+type syst
+em. It was
+designed
+to be comp
+iled to pr
+ovide low-
+level acce
+ss to memo
+ry and lan
+guage cons
+tructs tha
+t map effi
+ciently to
+machine i
+nstruction
+s, all wit
+h minimal
+runtime su
+pport. Des
+pite its l
+ow-level c
+apabilitie
+s, the lan
+guage was
+designed t
+o encourag
+e cross-pl
+atform pro
+gramming.
+A standard
+s-complian
+t C progra
+m written
+with porta
+bility in
+mind can b
+e compiled
+for a wid
+e variety
+of compute
+r platform
+s and oper
+ating syst
+ems with f
+ew changes
+to its so
+urce code.
+Although
+neither C
+nor its st
+andard lib
+rary provi
+de some po
+pular feat
+ures found
+in other
+languages,
+it is fle
+xible enou
+gh to supp
+ort them.
+For exampl
+e, object
+orientatio
+n and garb
+age collec
+tion are p
+rovided by
+external
+libraries
+GLib Objec
+t System a
+nd Boehm g
+arbage col
+lector, re
+spectively
+. Since 20
+00, C has
+consistent
+ly ranked
+among the
+top four l
+anguages i
+n the TIOB
+E index, a
+measure o
+f the popu
+larity of
+programmin
+g language
+s.[16] Cha
+racteristi
+cs Dennis
+Ritchie (r
+ight), the
+inventor
+of the C p
+rogramming
+language,
+with Ken
+Thompson T
+he C langu
+age exhibi
+ts the fol
+lowing cha
+racteristi
+cs: Free-f
+orm source
+code Semi
+colons ter
+minate sta
+tements Cu
+rly braces
+group sta
+tements in
+to blocks
+Executable
+code is c
+ontained i
+n function
+s; no scri
+pt-like sy
+ntax Param
+eters are
+passed by
+value; pas
+s by-refer
+ence is ac
+hieved by
+passing a
+pointer to
+a value R
+elatively
+small numb
+er of keyw
+ords Contr
+ol flow co
+nstructs,
+including
+if, for, d
+o, while,
+and switch
+Arithmeti
+c, bitwise
+, and logi
+c operator
+s, includi
+ng +,+=,++
+,&,|| Mult
+iple assig
+nments may
+be perfor
+med in a s
+ingle stat
+ement User
+-defined i
+dentifiers
+are not d
+istinguish
+ed from ke
+ywords; i.
+e. by a si
+gil A vari
+able decla
+red inside
+a block i
+s accessib
+le only in
+that bloc
+k and only
+below the
+declarati
+on A funct
+ion return
+value can
+be ignore
+d A functi
+on cannot
+be nested
+inside a f
+unction, b
+ut some tr
+anslators
+support th
+is Run-tim
+e polymorp
+hism may b
+e achieved
+using fun
+ction poin
+ters Suppo
+rts recurs
+ion Data t
+yping is s
+tatic, but
+weakly en
+forced; al
+l variable
+s have a t
+ype, but i
+mplicit co
+nversion b
+etween pri
+mitive typ
+es weakens
+the separ
+ation of t
+he differe
+nt types U
+ser-define
+d data typ
+es allow f
+or aliasin
+g a data t
+ype specif
+ier Syntax
+for array
+definitio
+n and acce
+ss is via
+square bra
+cket notat
+ion, for e
+xample mon
+th[11]. In
+dexing is
+defined in
+terms of
+pointer ar
+ithmetic.
+Whole arra
+ys cannot
+be copied
+or compare
+d without
+custom or
+library co
+de User-de
+fined stru
+cture type
+s allow re
+lated data
+elements
+to be pass
+ed and cop
+ied as a u
+nit althou
+gh two str
+uctures ca
+nnot be co
+mpared wit
+hout custo
+m code to
+compare ea
+ch field U
+ser-define
+d union ty
+pes suppor
+t overlapp
+ing member
+s; allowin
+g multiple
+data type
+s to share
+the same
+memory loc
+ation User
+-defined e
+numeration
+types sup
+port alias
+ing intege
+r values L
+acks a str
+ing type b
+ut has syn
+tax for nu
+ll-termina
+ted string
+s with ass
+ociated ha
+ndling in
+its standa
+rd library
+Supports
+low-level
+access to
+computer m
+emory via
+pointers S
+upports pr
+ocedure-li
+ke constru
+ct as a fu
+nction ret
+urning voi
+d Supports
+dynamic m
+emory via
+standard l
+ibrary fun
+ctions Inc
+ludes the
+C preproce
+ssor to pe
+rform macr
+o definiti
+on, source
+code file
+inclusion
+, and cond
+itional co
+mpilation
+Supports m
+odularity
+in that fi
+les are pr
+ocessed se
+parately,
+with visib
+ility cont
+rol via st
+atic and e
+xtern attr
+ibutes Min
+imized fun
+ctionality
+in the co
+re languag
+e while re
+latively c
+omplex fun
+ctionality
+such as I
+/O, string
+manipulat
+ion, and m
+athematica
+l function
+s supporte
+d via stan
+dard libra
+ry functio
+ns Resulti
+ng compile
+d code has
+relativel
+y straight
+forward ne
+eds on the
+underlyin
+g platform
+, making i
+t desirabl
+e for oper
+ating and
+embedded s
+ystems "He
+llo, world
+" example
+"Hello, Wo
+rld!" prog
+ram by Bri
+an Kernigh
+an (1978)
+The "Hello
+, World!"
+program ex
+ample that
+appeared
+in the fir
+st edition
+of K&R ha
+s become t
+he model f
+or an intr
+oductory p
+rogram in
+most progr
+amming tex
+tbooks. Th
+e program
+prints "he
+llo, world
+" to the s
+tandard ou
+tput. The
+original v
+ersion was
+:[17] main
+() { print
+f("hello,
+world\n");
+} A more
+modern ver
+sion is:[d
+] #include
+<stdio.h>
+int main(
+void) { pr
+intf("hell
+o, world\n
+"); } The
+first line
+is a prep
+rocessor d
+irective,
+indicated
+by #includ
+e, which c
+auses the
+preprocess
+or to repl
+ace that l
+ine of cod
+e with the
+text of t
+he stdio.h
+header fi
+le, which
+contains d
+eclarations
+for input
+and outpu
+t function
+s includin
+g printf.
+The angle
+brackets a
+round stdi
+o.h indica
+te that th
+e header f
+ile can be
+located u
+sing a sea
+rch strate
+gy that se
+lects head
+er files p
+rovided wi
+th the com
+piler over
+files wit
+h the same
+name that
+may be fo
+und in pro
+ject-specifi
+c director
+ies. The n
+ext code l
+ine declar
+es the ent
+ry point f
+unction ma
+in. The ru
+n-time env
+ironment c
+alls this
+function t
+o begin pr
+ogram exec
+ution. The
+type spec
+ifier int
+indicates
+that the f
+unction re
+turns an i
+nteger val
+ue. The vo
+id paramet
+er list in
+dicates th
+at the fun
+ction cons
+umes no ar
+guments. T
+he run-tim
+e environm
+ent actual
+ly passes
+two argume
+nts (typed
+int and c
+har *[]),
+but this i
+mplementat
+ion ignore
+s them. Th
+e ISO C st
+andard (se
+ction 5.1.
+2.2.1) req
+uires synt
+ax that ei
+ther is vo
+id or thes
+e two argu
+ments – a
+special tr
+eatment no
+t afforded
+to other
+functions.
+The openi
+ng curly b
+race indic
+ates the b
+eginning o
+f the code
+that defi
+nes the fu
+nction. Th
+e next lin
+e of code
+calls (div
+erts execu
+tion to) t
+he C stand
+ard librar
+y function
+printf wi
+th the add
+ress of th
+e first ch
+aracter of
+a null-te
+rminated s
+tring spec
+ified as a
+string li
+teral. The
+text \n i
+s an escap
+e sequence
+that deno
+tes the ne
+wline char
+acter whic
+h when out
+put in a t
+erminal re
+sults in m
+oving the
+cursor to
+the beginn
+ing of the
+next line
+. Even tho
+ugh printf
+returns a
+n int valu
+e, it is s
+ilently di
+scarded. T
+he semicol
+on ; termi
+nates the
+call state
+ment. The
+closing cu
+rly brace
+indicates
+the end of
+the main
+function.
+Prior to C
+99, an exp
+licit retu
+rn 0; stat
+ement was
+required a
+t the end
+of main fu
+nction, bu
+t since C9
+9, the mai
+n function
+(as being
+the initi
+al functio
+n call) im
+plicitly r
+eturns 0 u
+pon reachi
+ng its fin
+al closing
+curly bra
+ce.[e] His
+tory Early
+developme
+nts Timeli
+ne of C la
+nguage Yea
+r Informal
+name Offi
+cial stand
+ard 1972 f
+irst relea
+se — 1978
+K&R C — 19
+89, 1990 A
+NSI C, C89
+, ISO C, C
+90 ANSI X3
+.159-1989
+ISO/IEC 98
+99:1990 19
+99 C99, C9
+X ISO/IEC
+9899:1999
+2011 C11,
+C1X ISO/IE
+C 9899:201
+1 2018 C17
+, C18 ISO/
+IEC 9899:2
+018 2024 C
+23, C2X IS
+O/IEC 9899
+:2024 TBA
+C2Y The or
+igin of C
+is closely
+tied to t
+he develop
+ment of th
+e Unix ope
+rating sys
+tem, origi
+nally impl
+emented in
+assembly
+language o
+n a PDP-7
+by Dennis
+Ritchie an
+d Ken Thom
+pson, inco
+rporating
+several id
+eas from c
+olleagues.
+Eventuall
+y, they de
+cided to p
+ort the op
+erating sy
+stem to a
+PDP-11. Th
+e original
+PDP-11 ve
+rsion of U
+nix was al
+so develop
+ed in asse
+mbly langu
+age.[12] B
+Main arti
+cle: B (pr
+ogramming
+language)
+Thompson w
+anted a pr
+ogramming
+language f
+or develop
+ing utilit
+ies for th
+e new plat
+form. He f
+irst tried
+writing a
+Fortran c
+ompiler, b
+ut he soon
+gave up t
+he idea an
+d instead
+created a
+cut-down v
+ersion of
+the recent
+ly develop
+ed systems
+programmi
+ng languag
+e called B
+CPL. The o
+fficial de
+scription
+of BCPL wa
+s not avai
+lable at t
+he time,[1
+9] and Tho
+mpson modi
+fied the s
+yntax to b
+e less 'wo
+rdy' and s
+imilar to
+a simplifi
+ed ALGOL k
+nown as SM
+ALGOL.[20]
+He called
+the resul
+t B,[12] d
+escribing
+it as "BCP
+L semantic
+s with a l
+ot of SMAL
+GOL syntax
+".[20] Lik
+e BCPL, B
+had a boot
+strapping
+compiler t
+o facilita
+te porting
+to new ma
+chines.[20
+] Ultimate
+ly, few ut
+ilities we
+re written
+in B beca
+use it was
+too slow
+and could
+not take a
+dvantage o
+f PDP-11 f
+eatures su
+ch as byte
+addressab
+ility. Unl
+ike BCPL's
+// commen
+t marking
+comments u
+p to the e
+nd of the
+line, B ad
+opted /* c
+omment */
+as the com
+ment delim
+iter, more
+akin to P
+L/1, and a
+llowing co
+mments to
+appear in
+the middle
+of lines.
+(BCPL's c
+omment sty
+le would b
+e reintrod
+uced in C+
++.)[12] Ne
+w B and fi
+rst C rele
+ase In 197
+1 Ritchie
+started to
+improve B
+, to use t
+he feature
+s of the m
+ore-powerf
+ul PDP-11.
+A signifi
+cant addit
+ion was a
+character
+data type.
+He called
+this New
+B (NB).[20
+] Thompson
+started t
+o use NB t
+o write th
+e Unix ker
+nel, and h
+is require
+ments shap
+ed the dir
+ection of
+the langua
+ge develop
+ment.[20][
+21] Throug
+h to 1972,
+richer ty
+pes were a
+dded to th
+e NB langu
+age. NB ha
+d arrays o
+f int and
+char, and
+to these t
+ypes were
+added poin
+ters, the
+ability to
+generate
+pointers t
+o other ty
+pes, array
+s of all t
+ypes, and
+types to b
+e returned
+from func
+tions. Arr
+ays within
+expressio
+ns were ef
+fectively
+treated as
+pointers.
+A new com
+piler was
+written, a
+nd the lan
+guage was
+renamed C.
+[12] The C
+compiler
+and some u
+tilities m
+ade with i
+t were inc
+luded in V
+ersion 2 U
+nix, which
+is also k
+nown as Re
+search Uni
+x.[22] Str
+uctures an
+d Unix ker
+nel re-wri
+te At Vers
+ion 4 Unix
+, released
+in Novemb
+er 1973, t
+he Unix ke
+rnel was e
+xtensively
+re-implem
+ented in C
+.[12] By t
+his time,
+the C lang
+uage had a
+cquired so
+me powerfu
+l features
+such as s
+truct type
+s. The pre
+processor
+was introd
+uced aroun
+d 1973 at
+the urging
+of Alan S
+nyder and
+also in re
+cognition
+of the use
+fulness of
+the file-
+inclusion
+mechanisms
+available
+in BCPL a
+nd PL/I. I
+ts origina
+l version
+provided o
+nly includ
+ed files a
+nd simple
+string rep
+lacements:
+#include
+and #defin
+e of param
+eterless m
+acros. Soo
+n after th
+at, it was
+extended,
+mostly by
+Mike Lesk
+and then
+by John Re
+iser, to i
+ncorporate
+macros wi
+th argumen
+ts and con
+ditional c
+ompilation
+.[12] Unix
+was one o
+f the firs
+t operatin
+g system k
+ernels imp
+lemented i
+n a langua
+ge other t
+han assemb
+ly. Earlie
+r instance
+s include
+the Multic
+s system (
+which was
+written in
+PL/I) and
+Master Co
+ntrol Prog
+ram (MCP)
+for the Bu
+rroughs B5
+000 (which
+was writt
+en in ALGO
+L) in 1961
+. In and a
+round 1977
