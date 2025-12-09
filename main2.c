@@ -3,11 +3,13 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
+#include <semaphore.h>
 
 #define NUM_ROUNDS 1000
 #define LINE_SIZE 128
 
-pthread_mutex_t lock;
+sem_t sem_empty;
+sem_t sem_full;
 
 typedef struct {
 	char buffer[LINE_SIZE + 1];
@@ -26,17 +28,19 @@ void* fill_arr(void* arg) {
 		pthread_exit(NULL);
 	}
 
+	char local_temp[LINE_SIZE + 1];
 
-	while (fgets(args->buffer, LINE_SIZE + 1, input_fp) != NULL) {
+	while (fgets(local_temp, LINE_SIZE + 1, input_fp) != NULL) {
 
-		size_t len = strlen(args->buffer);
-		if (len > 0 && args->buffer[len - 1] == '\n') {
-			args->buffer[len - 1] = '\0';
+		sem_wait(&sem_empty);
+
+		size_t len = strlen(local_temp);
+		if (len > 0 && local_temp[len - 1] == '\n') {
+			local_temp[len - 1] = '\0';
 		}
 
-		pthread_mutex_lock(&lock);
-
-		strcpy(args->sorted_buffer, args->buffer);
+		strcpy(args->buffer, local_temp);
+		strcpy(args->sorted_buffer, local_temp);
 
 		args->id = current_line++;
 
@@ -45,8 +49,12 @@ void* fill_arr(void* arg) {
 			fflush(args->output_fp);
 		}
 
-		pthread_mutex_unlock(&lock);
+		sem_post(&sem_full);
 	}
+
+	sem_wait(&sem_empty);
+	args->id = -1;
+	sem_post(&sem_full);
 
 	fclose(input_fp);
 	pthread_exit(NULL);
@@ -56,7 +64,12 @@ void* sort_arr(void* arg) {
 	ThreadArgs* args = (ThreadArgs*)arg;
 
 	while (1) {
-		pthread_mutex_lock(&lock);
+		sem_wait(&sem_full);
+
+		if (args->id == -1) {
+			sem_post(&sem_empty);
+			break; 
+		}
 
 		size_t len = strlen(args->sorted_buffer);
 
@@ -76,14 +89,18 @@ void* sort_arr(void* arg) {
 			fflush(args->output_fp);
 		}
 
-		pthread_mutex_unlock(&lock);
+		sem_post(&sem_empty);
 	}
 
 	pthread_exit(NULL);
 }
 
 int main() {
-	pthread_mutex_init(&lock, NULL);
+	// semaphore init
+	// sem_empty = 1 (one free space on the start)
+	sem_init(&sem_empty, 0, 1);
+	// sem_full = 0 (no data on start)
+	sem_init(&sem_full, 0, 0);
 
 	pthread_t thread_fill, thread_sort;
 
@@ -104,7 +121,8 @@ int main() {
 
 	fclose(args.output_fp);
 
-	pthread_mutex_destroy(&lock);
+	sem_destroy(&sem_empty);
+	sem_destroy(&sem_full);
 
 	printf("Done! Check result.txt\n");
 	return 0;
