@@ -8,16 +8,11 @@
 #define LINE_SIZE 128
 
 pthread_mutex_t lock;
-pthread_cond_t buffer_empty;
-pthread_cond_t data_ready;
-
-int buffer_filled = 0; //flag 0 - empty, 1 - ready
-int EOF_reached = 0;
 
 typedef struct {
 	char buffer[LINE_SIZE + 1];
 	char sorted_buffer[LINE_SIZE + 1];
-	FILE* input_fp;
+	FILE* output_fp;
 	int id;
 } ThreadArgs;
 
@@ -32,45 +27,25 @@ void* fill_arr(void* arg) {
 	}
 
 
-	while (1) {
-		pthread_mutex_lock(&lock);
-
-		while (buffer_filled == 1 && !EOF_reached) {
-			pthread_cond_wait(&buffer_empty, &lock);
-		}
-
-		if (EOF_reached) {
-			pthread_mutex_unlock(&lock);
-			break;
-		}
-
-		if (fgets(args->buffer, LINE_SIZE + 1, input_fp) == NULL) {
-			EOF_reached = 1;
-			buffer_filled = 0;
-			pthread_mutex_unlock(&lock);
-			pthread_cond_signal(&data_ready);
-			break;
-		}
+	while (fgets(args->buffer, LINE_SIZE + 1, input_fp) != NULL) {
 
 		size_t len = strlen(args->buffer);
 		if (len > 0 && args->buffer[len - 1] == '\n') {
 			args->buffer[len - 1] = '\0';
 		}
 
+		pthread_mutex_lock(&lock);
+
 		strcpy(args->sorted_buffer, args->buffer);
 
 		args->id = current_line++;
 
-		FILE* output = fopen("result.txt", "a");
-		if (output) {
-			fprintf(output, "T[%d] - %s\n", args->id, args->buffer);
-			fclose(output);
+		if (args->output_fp) {
+			fprintf(args->output_fp, "T[%d] - %s\n", args->id, args->buffer);
+			fflush(args->output_fp);
 		}
 
-		buffer_filled = 1;
-
 		pthread_mutex_unlock(&lock);
-		pthread_cond_signal(&data_ready);
 	}
 
 	fclose(input_fp);
@@ -82,15 +57,6 @@ void* sort_arr(void* arg) {
 
 	while (1) {
 		pthread_mutex_lock(&lock);
-
-		while (buffer_filled == 0 && !EOF_reached) {
-			pthread_cond_wait(&data_ready, &lock);
-		}
-
-		if (EOF_reached && buffer_filled == 0) {
-			pthread_mutex_unlock(&lock);
-			break;
-		}
 
 		size_t len = strlen(args->sorted_buffer);
 
@@ -104,17 +70,13 @@ void* sort_arr(void* arg) {
 			}
 		}
 
-		FILE* output = fopen("result.txt", "a");
-		if (output) {
-			fprintf(output, "Sorted T[%d] - %s\n", args->id, args->sorted_buffer);
-			fprintf(output, "----------------\n");
-			fclose(output);
+		if (args->output_fp) {
+			fprintf(args->output_fp, "Sorted T[%d] - %s\n", args->id, args->sorted_buffer);
+			fprintf(args->output_fp, "----------------\n");
+			fflush(args->output_fp);
 		}
 
-		buffer_filled = 0;
-
 		pthread_mutex_unlock(&lock);
-		pthread_cond_signal(&buffer_empty);
 	}
 
 	pthread_exit(NULL);
@@ -122,15 +84,16 @@ void* sort_arr(void* arg) {
 
 int main() {
 	pthread_mutex_init(&lock, NULL);
-	pthread_cond_init(&buffer_empty, NULL);
-	pthread_cond_init(&data_ready, NULL);
-	//char buffer[LINE_SIZE + 1];
+
 	pthread_t thread_fill, thread_sort;
 
-	FILE* clean = fopen("result.txt", "w");
-	if (clean) fclose(clean);
-
 	ThreadArgs args;
+
+	args.output_fp = fopen("result.txt", "w");
+	if (args.output_fp == NULL) {
+		printf("Erorr opening file result.txt");
+		return 1;
+	}
 
 	pthread_create(&thread_sort, NULL, sort_arr, (void*)&args);
 
@@ -139,9 +102,9 @@ int main() {
 	pthread_join(thread_sort, NULL);
 	pthread_join(thread_fill, NULL);
 
+	fclose(args.output_fp);
+
 	pthread_mutex_destroy(&lock);
-	pthread_cond_destroy(&data_ready);
-	pthread_cond_destroy(&buffer_empty);
 
 	printf("Done! Check result.txt\n");
 	return 0;

@@ -1,0 +1,3303 @@
+T[0] - C[c] is a
+Sorted T[0] -   C[]acis
+----------------
+T[1] - general-pu
+Sorted T[1] - -aeeglnpru
+----------------
+T[2] - rpose prog
+Sorted T[2] -  egoopprrs
+----------------
+T[3] - ramming la
+Sorted T[3] -  aagilmmnr
+----------------
+T[4] - nguage. It
+Sorted T[4] -  .Iaeggntu
+----------------
+T[5] - was creat
+Sorted T[5] -  aacerstw
+----------------
+T[6] - ed in the
+Sorted T[6] -   deehint
+----------------
+T[7] - 1970s by D
+Sorted T[7] -   0179Dbsy
+----------------
+T[8] - ennis Ritc
+Sorted T[8] -  Rceiinnst
+----------------
+T[9] - hie and re
+Sorted T[9] -   adeehinr
+----------------
+T[10] - mains wide
+Sorted T[10] -  adeiimnsw
+----------------
+T[11] - ly used an
+Sorted T[11] -   adelnsuy
+----------------
+T[12] - d influent
+Sorted T[12] -  defilnntu
+----------------
+T[13] - ial. By de
+Sorted T[13] -   .Badeily
+----------------
+T[14] - sign, C gi
+Sorted T[14] -   ,Cggiins
+----------------
+T[15] - ves the pr
+Sorted T[15] -   eehprstv
+----------------
+T[16] - ogrammer r
+Sorted T[16] -  aegmmorrr
+----------------
+T[17] - elatively
+Sorted T[17] - aeeilltvy
+----------------
+T[18] - direct acc
+Sorted T[18] -  acccdeirt
+----------------
+T[19] - ess to the
+Sorted T[19] -   eehosstt
+----------------
+T[20] - features
+Sorted T[20] - aeefrstu
+----------------
+T[21] - of the typ
+Sorted T[21] -   efhoptty
+----------------
+T[22] - ical CPU a
+Sorted T[22] -   CPUaacil
+----------------
+T[23] - rchitectur
+Sorted T[23] - ccehirrttu
+----------------
+T[24] - e, customi
+Sorted T[24] -  ,ceimostu
+----------------
+T[25] - zed for th
+Sorted T[25] -   defhortz
+----------------
+T[26] - e target i
+Sorted T[26] -   aeegirtt
+----------------
+T[27] - nstruction
+Sorted T[27] - cinnorsttu
+----------------
+T[28] - set. It h
+Sorted T[28] -   .Iehstt
+----------------
+T[29] - as been an
+Sorted T[29] -   aabeenns
+----------------
+T[30] - d continue
+Sorted T[30] -  cdeinnotu
+----------------
+T[31] - s to be us
+Sorted T[31] -    beosstu
+----------------
+T[32] - ed to impl
+Sorted T[32] -   deilmopt
+----------------
+T[33] - ement oper
+Sorted T[33] -  eeemnoprt
+----------------
+T[34] - ating syst
+Sorted T[34] -  aginsstty
+----------------
+T[35] - ems (espec
+Sorted T[35] -  (ceeempss
+----------------
+T[36] - ially kern
+Sorted T[36] -  aeikllnry
+----------------
+T[37] - els[10]),
+Sorted T[37] - ),01[]els
+----------------
+T[38] - device dri
+Sorted T[38] -  cddeeiirv
+----------------
+T[39] - vers, and
+Sorted T[39] -  ,adenrsv
+----------------
+T[40] - protocol s
+Sorted T[40] -  cloooprst
+----------------
+T[41] - tacks, but
+Sorted T[41] -  ,abcksttu
+----------------
+T[42] - its use i
+Sorted T[42] -   eiisstu
+----------------
+T[43] - n applicat
+Sorted T[43] -  aacilnppt
+----------------
+T[44] - ion softwa
+Sorted T[44] -  afinoostw
+----------------
+T[45] - re has bee
+Sorted T[45] -   abeeehrs
+----------------
+T[46] - n decreasi
+Sorted T[46] -  acdeeinrs
+----------------
+T[47] - ng.[11] C
+Sorted T[47] -  .11C[]gn
+----------------
+T[48] - is used on
+Sorted T[48] -   deinossu
+----------------
+T[49] - computers
+Sorted T[49] - cemoprstu
+----------------
+T[50] - that rang
+Sorted T[50] -  aaghnrtt
+----------------
+T[51] - e from the
+Sorted T[51] -   eefhmort
+----------------
+T[52] - largest s
+Sorted T[52] -  aeglrsst
+----------------
+T[53] - upercomput
+Sorted T[53] - cemopprtuu
+----------------
+T[54] - ers to the
+Sorted T[54] -   eehorstt
+----------------
+T[55] - smallest
+Sorted T[55] - aellmsst
+----------------
+T[56] - microcontr
+Sorted T[56] - ccimnoorrt
+----------------
+T[57] - ollers and
+Sorted T[57] -  adellnors
+----------------
+T[58] - embedded
+Sorted T[58] - bdddeeem
+----------------
+T[59] - systems. A
+Sorted T[59] -  .Aemsssty
+----------------
+T[60] - successor
+Sorted T[60] - cceorsssu
+----------------
+T[61] - to the pr
+Sorted T[61] -   ehoprtt
+----------------
+T[62] - ogramming
+Sorted T[62] - aggimmnor
+----------------
+T[63] - language B
+Sorted T[63] -  Baaegglnu
+----------------
+T[64] - , C was or
+Sorted T[64] -    ,Caorsw
+----------------
+T[65] - iginally d
+Sorted T[65] -  adgiillny
+----------------
+T[66] - eveloped a
+Sorted T[66] -  adeeelopv
+----------------
+T[67] - t Bell Lab
+Sorted T[67] -   BLabellt
+----------------
+T[68] - s by Ritch
+Sorted T[68] -   Rbchisty
+----------------
+T[69] - ie between
+Sorted T[69] -  beeeeintw
+----------------
+T[70] - 1972 and
+Sorted T[70] -  1279adn
+----------------
+T[71] - 1973 to co
+Sorted T[71] -   1379coot
+----------------
+T[72] - nstruct ut
+Sorted T[72] -  cnrstttuu
+----------------
+T[73] - ilities ru
+Sorted T[73] -  eiiilrstu
+----------------
+T[74] - nning on U
+Sorted T[74] -   Uginnnno
+----------------
+T[75] - nix. It wa
+Sorted T[75] -   .Iaintwx
+----------------
+T[76] - s applied
+Sorted T[76] -  adeilpps
+----------------
+T[77] - to re-impl
+Sorted T[77] -  -eilmoprt
+----------------
+T[78] - ementing t
+Sorted T[78] -  eegimnntt
+----------------
+T[79] - he kernel
+Sorted T[79] -  eeehklnr
+----------------
+T[80] - of the Uni
+Sorted T[80] -   Uefhinot
+----------------
+T[81] - x operatin
+Sorted T[81] -  aeinoprtx
+----------------
+T[82] - g system.[
+Sorted T[82] -  .[egmssty
+----------------
+T[83] - 12] During
+Sorted T[83] -  12D]ginru
+----------------
+T[84] - the 1980s
+Sorted T[84] -  0189ehst
+----------------
+T[85] - , C gradua
+Sorted T[85] -   ,Caadgru
+----------------
+T[86] - lly gained
+Sorted T[86] -  adegillny
+----------------
+T[87] - popularit
+Sorted T[87] - ailopprtu
+----------------
+T[88] - y. It has
+Sorted T[88] -   .Iahsty
+----------------
+T[89] - become one
+Sorted T[89] -  bceeemnoo
+----------------
+T[90] - of the mo
+Sorted T[90] -   efhmoot
+----------------
+T[91] - st widely
+Sorted T[91] -  deilstwy
+----------------
+T[92] - used progr
+Sorted T[92] -  degoprrsu
+----------------
+T[93] - amming lan
+Sorted T[93] -  aagilmmnn
+----------------
+T[94] - guages,[13
+Sorted T[94] - ,13[aeggsu
+----------------
+T[95] - ][14] with
+Sorted T[95] -  14[]]hitw
+----------------
+T[96] - C compile
+Sorted T[96] -  Cceilmop
+----------------
+T[97] - rs availab
+Sorted T[97] -  aaabilrsv
+----------------
+T[98] - le for pra
+Sorted T[98] -   aefloprr
+----------------
+T[99] - ctically a
+Sorted T[99] -  aaccillty
+----------------
+T[100] - ll modern
+Sorted T[100] -  dellmnor
+----------------
+T[101] - computer a
+Sorted T[101] -  acemoprtu
+----------------
+T[102] - rchitectur
+Sorted T[102] - ccehirrttu
+----------------
+T[103] - es and ope
+Sorted T[103] -   adeenops
+----------------
+T[104] - rating sys
+Sorted T[104] -  aginrssty
+----------------
+T[105] - tems. The
+Sorted T[105] -  .Teehmst
+----------------
+T[106] - book The C
+Sorted T[106] -   CTbehkoo
+----------------
+T[107] - Programmi
+Sorted T[107] - Pagimmorr
+----------------
+T[108] - ng Languag
+Sorted T[108] -  Laagggnnu
+----------------
+T[109] - e, co-auth
+Sorted T[109] -  ,-acehotu
+----------------
+T[110] - ored by th
+Sorted T[110] -   bdehorty
+----------------
+T[111] - e original
+Sorted T[111] -  aegiilnor
+----------------
+T[112] - language
+Sorted T[112] - aaegglnu
+----------------
+T[113] - designer,
+Sorted T[113] - ,deeginrs
+----------------
+T[114] - served for
+Sorted T[114] -  deeforrsv
+----------------
+T[115] - many year
+Sorted T[115] -  aaemnryy
+----------------
+T[116] - s as the d
+Sorted T[116] -    adehsst
+----------------
+T[117] - e facto st
+Sorted T[117] -   acefostt
+----------------
+T[118] - andard for
+Sorted T[118] -  aaddfnorr
+----------------
+T[119] - the langu
+Sorted T[119] -  aeghlntu
+----------------
+T[120] - age.[15][1
+Sorted T[120] - .115[[]aeg
+----------------
+T[121] - ] C has be
+Sorted T[121] -    C]abehs
+----------------
+T[122] - en standar
+Sorted T[122] -  aadennrst
+----------------
+T[123] - dized sinc
+Sorted T[123] -  cddeiinsz
+----------------
+T[124] - e 1989 by
+Sorted T[124] -   1899bey
+----------------
+T[125] - the Americ
+Sorted T[125] -  Aceehimrt
+----------------
+T[126] - an Nationa
+Sorted T[126] -  Naaainnot
+----------------
+T[127] - l Standard
+Sorted T[127] -  Saaddlnrt
+----------------
+T[128] - s Institut
+Sorted T[128] -  Iinsstttu
+----------------
+T[129] - e (ANSI) a
+Sorted T[129] -   ()AINSae
+----------------
+T[130] - nd, subseq
+Sorted T[130] -  ,bdenqssu
+----------------
+T[131] - uently, jo
+Sorted T[131] -  ,ejlnotuy
+----------------
+T[132] - intly by t
+Sorted T[132] -   bilnttyy
+----------------
+T[133] - he Interna
+Sorted T[133] -  Iaeehnnrt
+----------------
+T[134] - tional Org
+Sorted T[134] -  Oagilnort
+----------------
+T[135] - anization
+Sorted T[135] - aaiinnotz
+----------------
+T[136] - for Standa
+Sorted T[136] -  Saadfnort
+----------------
+T[137] - rdization
+Sorted T[137] - adiinortz
+----------------
+T[138] - (ISO) and
+Sorted T[138] -  ()IOSadn
+----------------
+T[139] - the Intern
+Sorted T[139] -  Ieehnnrtt
+----------------
+T[140] - ational El
+Sorted T[140] -  Eaaillnot
+----------------
+T[141] - ectrotechn
+Sorted T[141] - cceehnortt
+----------------
+T[142] - ical Commi
+Sorted T[142] -  Caciilmmo
+----------------
+T[143] - ssion (IEC
+Sorted T[143] -  (CEIinoss
+----------------
+T[144] - ). C is an
+Sorted T[144] -    ).Cains
+----------------
+T[145] - imperativ
+Sorted T[145] - aeiimprtv
+----------------
+T[146] - e procedur
+Sorted T[146] -  cdeeoprru
+----------------
+T[147] - al languag
+Sorted T[147] -  aaaggllnu
+----------------
+T[148] - e, support
+Sorted T[148] -  ,eopprstu
+----------------
+T[149] - ing struct
+Sorted T[149] -  cginrsttu
+----------------
+T[150] - ured progr
+Sorted T[150] -  degoprrru
+----------------
+T[151] - amming, le
+Sorted T[151] -  ,aegilmmn
+----------------
+T[152] - xical vari
+Sorted T[152] -  aaciilrvx
+----------------
+T[153] - able scope
+Sorted T[153] -  abceelops
+----------------
+T[154] - , and recu
+Sorted T[154] -   ,acdenru
+----------------
+T[155] - rsion, wit
+Sorted T[155] -  ,iinorstw
+----------------
+T[156] - h a static
+Sorted T[156] -   aachistt
+----------------
+T[157] - type syst
+Sorted T[157] -  epssttyy
+----------------
+T[158] - em. It was
+Sorted T[158] -   .Iaemstw
+----------------
+T[159] - designed
+Sorted T[159] - ddeegins
+----------------
+T[160] - to be comp
+Sorted T[160] -   bcemoopt
+----------------
+T[161] - iled to pr
+Sorted T[161] -   deiloprt
+----------------
+T[162] - ovide low-
+Sorted T[162] -  -deiloovw
+----------------
+T[163] - level acce
+Sorted T[163] -  acceeellv
+----------------
+T[164] - ss to memo
+Sorted T[164] -   emmoosst
+----------------
+T[165] - ry and lan
+Sorted T[165] -   aadlnnry
+----------------
+T[166] - guage cons
+Sorted T[166] -  aceggnosu
+----------------
+T[167] - tructs tha
+Sorted T[167] -  achrstttu
+----------------
+T[168] - t map effi
+Sorted T[168] -   aeffimpt
+----------------
+T[169] - ciently to
+Sorted T[169] -  ceilnotty
+----------------
+T[170] - machine i
+Sorted T[170] -  acehiimn
+----------------
+T[171] - nstruction
+Sorted T[171] - cinnorsttu
+----------------
+T[172] - s, all wit
+Sorted T[172] -   ,aillstw
+----------------
+T[173] - h minimal
+Sorted T[173] -  ahiilmmn
+----------------
+T[174] - runtime su
+Sorted T[174] -  eimnrstuu
+----------------
+T[175] - pport. Des
+Sorted T[175] -  .Deopprst
+----------------
+T[176] - pite its l
+Sorted T[176] -   eiilpstt
+----------------
+T[177] - ow-level c
+Sorted T[177] -  -ceellovw
+----------------
+T[178] - apabilitie
+Sorted T[178] - aabeiiilpt
+----------------
+T[179] - s, the lan
+Sorted T[179] -   ,aehlnst
+----------------
+T[180] - guage was
+Sorted T[180] -  aaeggsuw
+----------------
+T[181] - designed t
+Sorted T[181] -  ddeeginst
+----------------
+T[182] - o encourag
+Sorted T[182] -  acegnooru
+----------------
+T[183] - e cross-pl
+Sorted T[183] -  -celoprss
+----------------
+T[184] - atform pro
+Sorted T[184] -  afmooprrt
+----------------
+T[185] - gramming.
+Sorted T[185] - .aggimmnr
+----------------
+T[186] - A standard
+Sorted T[186] -  Aaaddnrst
+----------------
+T[187] - s-complian
+Sorted T[187] - -acilmnops
+----------------
+T[188] - t C progra
+Sorted T[188] -   Cagoprrt
+----------------
+T[189] - m written
+Sorted T[189] -  eimnrttw
+----------------
+T[190] - with porta
+Sorted T[190] -  ahioprttw
+----------------
+T[191] - bility in
+Sorted T[191] -  biiilnty
+----------------
+T[192] - mind can b
+Sorted T[192] -   abcdimnn
+----------------
+T[193] - e compiled
+Sorted T[193] -  cdeeilmop
+----------------
+T[194] - for a wid
+Sorted T[194] -   adfiorw
+----------------
+T[195] - e variety
+Sorted T[195] -  aeeirtvy
+----------------
+T[196] - of compute
+Sorted T[196] -  cefmooptu
+----------------
+T[197] - r platform
+Sorted T[197] -  aflmoprrt
+----------------
+T[198] - s and oper
+Sorted T[198] -   adenoprs
+----------------
+T[199] - ating syst
+Sorted T[199] -  aginsstty
+----------------
+T[200] - ems with f
+Sorted T[200] -   efhimstw
+----------------
+T[201] - ew changes
+Sorted T[201] -  aceeghnsw
+----------------
+T[202] - to its so
+Sorted T[202] -   ioosstt
+----------------
+T[203] - urce code.
+Sorted T[203] -  .ccdeeoru
+----------------
+T[204] - Although
+Sorted T[204] - Aghhlotu
+----------------
+T[205] - neither C
+Sorted T[205] -  Ceehinrt
+----------------
+T[206] - nor its st
+Sorted T[206] -   inorsstt
+----------------
+T[207] - andard lib
+Sorted T[207] -  aabddilnr
+----------------
+T[208] - rary provi
+Sorted T[208] -  aioprrrvy
+----------------
+T[209] - de some po
+Sorted T[209] -   deemoops
+----------------
+T[210] - pular feat
+Sorted T[210] -  aaeflprtu
+----------------
+T[211] - ures found
+Sorted T[211] -  defnorsuu
+----------------
+T[212] - in other
+Sorted T[212] -  ehinort
+----------------
+T[213] - languages,
+Sorted T[213] - ,aaegglnsu
+----------------
+T[214] - it is fle
+Sorted T[214] -   efiilst
+----------------
+T[215] - xible enou
+Sorted T[215] -  beeilnoux
+----------------
+T[216] - gh to supp
+Sorted T[216] -   ghoppstu
+----------------
+T[217] - ort them.
+Sorted T[217] -  .ehmortt
+----------------
+T[218] - For exampl
+Sorted T[218] -  Faelmoprx
+----------------
+T[219] - e, object
+Sorted T[219] -  ,bceejot
+----------------
+T[220] - orientatio
+Sorted T[220] - aeiinoortt
+----------------
+T[221] - n and garb
+Sorted T[221] -   aabdgnnr
+----------------
+T[222] - age collec
+Sorted T[222] -  acceegllo
+----------------
+T[223] - tion are p
+Sorted T[223] -   aeinoprt
+----------------
+T[224] - rovided by
+Sorted T[224] -  bddeiorvy
+----------------
+T[225] - external
+Sorted T[225] - aeelnrtx
+----------------
+T[226] - libraries
+Sorted T[226] - abeiilrrs
+----------------
+T[227] - GLib Objec
+Sorted T[227] -  GLObbceij
+----------------
+T[228] - t System a
+Sorted T[228] -   Saemstty
+----------------
+T[229] - nd Boehm g
+Sorted T[229] -   Bdeghmno
+----------------
+T[230] - arbage col
+Sorted T[230] -  aabceglor
+----------------
+T[231] - lector, re
+Sorted T[231] -  ,ceelorrt
+----------------
+T[232] - spectively
+Sorted T[232] - ceeilpstvy
+----------------
+T[233] - . Since 20
+Sorted T[233] -   .02Scein
+----------------
+T[234] - 00, C has
+Sorted T[234] -   ,00Cahs
+----------------
+T[235] - consistent
+Sorted T[235] - ceinnosstt
+----------------
+T[236] - ly ranked
+Sorted T[236] -  adeklnry
+----------------
+T[237] - among the
+Sorted T[237] -  aeghmnot
+----------------
+T[238] - top four l
+Sorted T[238] -   flooprtu
+----------------
+T[239] - anguages i
+Sorted T[239] -  aaegginsu
+----------------
+T[240] - n the TIOB
+Sorted T[240] -   BIOTehnt
+----------------
+T[241] - E index, a
+Sorted T[241] -   ,Eadeinx
+----------------
+T[242] - measure o
+Sorted T[242] -  aeemorsu
+----------------
+T[243] - f the popu
+Sorted T[243] -   efhopptu
+----------------
+T[244] - larity of
+Sorted T[244] -  afilorty
+----------------
+T[245] - programmin
+Sorted T[245] - agimmnoprr
+----------------
+T[246] - g language
+Sorted T[246] -  aaeggglnu
+----------------
+T[247] - s.[16] Cha
+Sorted T[247] -  .16C[]ahs
+----------------
+T[248] - racteristi
+Sorted T[248] - aceiirrstt
+----------------
+T[249] - cs Dennis
+Sorted T[249] -  Dceinnss
+----------------
+T[250] - Ritchie (r
+Sorted T[250] -  (Rcehiirt
+----------------
+T[251] - ight), the
+Sorted T[251] -  ),eghhitt
+----------------
+T[252] - inventor
+Sorted T[252] - einnortv
+----------------
+T[253] - of the C p
+Sorted T[253] -    Cefhopt
+----------------
+T[254] - rogramming
+Sorted T[254] - aggimmnorr
+----------------
+T[255] - language,
+Sorted T[255] - ,aaegglnu
+----------------
+T[256] - with Ken
+Sorted T[256] -  Kehintw
+----------------
+T[257] - Thompson T
+Sorted T[257] -  TThmnoops
+----------------
+T[258] - he C langu
+Sorted T[258] -   Caeghlnu
+----------------
+T[259] - age exhibi
+Sorted T[259] -  abeeghiix
+----------------
+T[260] - ts the fol
+Sorted T[260] -   efhlostt
+----------------
+T[261] - lowing cha
+Sorted T[261] -  acghilnow
+----------------
+T[262] - racteristi
+Sorted T[262] - aceiirrstt
+----------------
+T[263] - cs: Free-f
+Sorted T[263] -  -:Fceefrs
+----------------
+T[264] - orm source
+Sorted T[264] -  cemoorrsu
+----------------
+T[265] - code Semi
+Sorted T[265] -  Scdeeimo
+----------------
+T[266] - colons ter
+Sorted T[266] -  celnoorst
+----------------
+T[267] - minate sta
+Sorted T[267] -  aaeimnstt
+----------------
+T[268] - tements Cu
+Sorted T[268] -  Ceemnsttu
+----------------
+T[269] - rly braces
+Sorted T[269] -  abcelrrsy
+----------------
+T[270] - group sta
+Sorted T[270] -  agoprstu
+----------------
+T[271] - tements in
+Sorted T[271] -  eeimnnstt
+----------------
+T[272] - to blocks
+Sorted T[272] -  bckloost
+----------------
+T[273] - Executable
+Sorted T[273] - Eabceeltux
+----------------
+T[274] - code is c
+Sorted T[274] -   ccdeios
+----------------
+T[275] - ontained i
+Sorted T[275] -  adeiinnot
+----------------
+T[276] - n function
+Sorted T[276] -  cfinnnotu
+----------------
+T[277] - s; no scri
+Sorted T[277] -   ;cinorss
+----------------
+T[278] - pt-like sy
+Sorted T[278] -  -eiklpsty
+----------------
+T[279] - ntax Param
+Sorted T[279] -  Paaamnrtx
+----------------
+T[280] - eters are
+Sorted T[280] -  aeeerrst
+----------------
+T[281] - passed by
+Sorted T[281] -  abdepssy
+----------------
+T[282] - value; pas
+Sorted T[282] -  ;aaelpsuv
+----------------
+T[283] - s by-refer
+Sorted T[283] -  -beefrrsy
+----------------
+T[284] - ence is ac
+Sorted T[284] -   acceeins
+----------------
+T[285] - hieved by
+Sorted T[285] -  bdeehivy
+----------------
+T[286] - passing a
+Sorted T[286] -  aaginpss
+----------------
+T[287] - pointer to
+Sorted T[287] -  einooprtt
+----------------
+T[288] - a value R
+Sorted T[288] -   Raaeluv
+----------------
+T[289] - elatively
+Sorted T[289] - aeeilltvy
+----------------
+T[290] - small numb
+Sorted T[290] -  abllmmnsu
+----------------
+T[291] - er of keyw
+Sorted T[291] -   eefkorwy
+----------------
+T[292] - ords Contr
+Sorted T[292] -  Cdnoorrst
+----------------
+T[293] - ol flow co
+Sorted T[293] -   cfllooow
+----------------
+T[294] - nstructs,
+Sorted T[294] - ,cnrssttu
+----------------
+T[295] - including
+Sorted T[295] - cdgiilnnu
+----------------
+T[296] - if, for, d
+Sorted T[296] -   ,,dffior
+----------------
+T[297] - o, while,
+Sorted T[297] -  ,,ehilow
+----------------
+T[298] - and switch
+Sorted T[298] -  acdhinstw
+----------------
+T[299] - Arithmeti
+Sorted T[299] - Aehiimrtt
+----------------
+T[300] - c, bitwise
+Sorted T[300] -  ,bceiistw
+----------------
+T[301] - , and logi
+Sorted T[301] -   ,adgilno
+----------------
+T[302] - c operator
+Sorted T[302] -  aceooprrt
+----------------
+T[303] - s, includi
+Sorted T[303] -  ,cdiilnsu
+----------------
+T[304] - ng +,+=,++
+Sorted T[304] -  ++++,,=gn
+----------------
+T[305] - ,&,|| Mult
+Sorted T[305] -  &,,Mltu||
+----------------
+T[306] - iple assig
+Sorted T[306] -  aegiilpss
+----------------
+T[307] - nments may
+Sorted T[307] -  aemmnnsty
+----------------
+T[308] - be perfor
+Sorted T[308] -  beefoprr
+----------------
+T[309] - med in a s
+Sorted T[309] -    adeimns
+----------------
+T[310] - ingle stat
+Sorted T[310] -  aegilnstt
+----------------
+T[311] - ement User
+Sorted T[311] -  Ueeemnrst
+----------------
+T[312] - -defined i
+Sorted T[312] -  -ddeefiin
+----------------
+T[313] - dentifiers
+Sorted T[313] - deefiinrst
+----------------
+T[314] - are not d
+Sorted T[314] -   adenort
+----------------
+T[315] - istinguish
+Sorted T[315] - ghiiinsstu
+----------------
+T[316] - ed from ke
+Sorted T[316] -   deefkmor
+----------------
+T[317] - ywords; i.
+Sorted T[317] -  .;diorswy
+----------------
+T[318] - e. by a si
+Sorted T[318] -    .abeisy
+----------------
+T[319] - gil A vari
+Sorted T[319] -   Aagiilrv
+----------------
+T[320] - able decla
+Sorted T[320] -  aabcdeell
+----------------
+T[321] - red inside
+Sorted T[321] -  ddeeiinrs
+----------------
+T[322] - a block i
+Sorted T[322] -   abciklo
+----------------
+T[323] - s accessib
+Sorted T[323] -  abcceisss
+----------------
+T[324] - le only in
+Sorted T[324] -   eillnnoy
+----------------
+T[325] - that bloc
+Sorted T[325] -  abchlott
+----------------
+T[326] - k and only
+Sorted T[326] -   adklnnoy
+----------------
+T[327] - below the
+Sorted T[327] -  beehlotw
+----------------
+T[328] - declarati
+Sorted T[328] - aacdeilrt
+----------------
+T[329] - on A funct
+Sorted T[329] -   Acfnnotu
+----------------
+T[330] - ion return
+Sorted T[330] -  einnorrtu
+----------------
+T[331] - value can
+Sorted T[331] -  aacelnuv
+----------------
+T[332] - be ignore
+Sorted T[332] -  beeginor
+----------------
+T[333] - d A functi
+Sorted T[333] -   Acdfintu
+----------------
+T[334] - on cannot
+Sorted T[334] -  acnnnoot
+----------------
+T[335] - be nested
+Sorted T[335] -  bdeeenst
+----------------
+T[336] - inside a f
+Sorted T[336] -   adefiins
+----------------
+T[337] - unction, b
+Sorted T[337] -  ,bcinnotu
+----------------
+T[338] - ut some tr
+Sorted T[338] -   emorsttu
+----------------
+T[339] - anslators
+Sorted T[339] - aalnorsst
+----------------
+T[340] - support th
+Sorted T[340] -  hopprsttu
+----------------
+T[341] - is Run-tim
+Sorted T[341] -  -Riimnstu
+----------------
+T[342] - e polymorp
+Sorted T[342] -  elmooppry
+----------------
+T[343] - hism may b
+Sorted T[343] -   abhimmsy
+----------------
+T[344] - e achieved
+Sorted T[344] -  acdeeehiv
+----------------
+T[345] - using fun
+Sorted T[345] -  fginnsuu
+----------------
+T[346] - ction poin
+Sorted T[346] -  ciinnoopt
+----------------
+T[347] - ters Suppo
+Sorted T[347] -  Seopprstu
+----------------
+T[348] - rts recurs
+Sorted T[348] -  cerrrsstu
+----------------
+T[349] - ion Data t
+Sorted T[349] -   Daainott
+----------------
+T[350] - yping is s
+Sorted T[350] -   giinpssy
+----------------
+T[351] - tatic, but
+Sorted T[351] -  ,abcitttu
+----------------
+T[352] - weakly en
+Sorted T[352] -  aeeklnwy
+----------------
+T[353] - forced; al
+Sorted T[353] -  ;acdeflor
+----------------
+T[354] - l variable
+Sorted T[354] -  aabeillrv
+----------------
+T[355] - s have a t
+Sorted T[355] -    aaehstv
+----------------
+T[356] - ype, but i
+Sorted T[356] -   ,beiptuy
+----------------
+T[357] - mplicit co
+Sorted T[357] -  cciilmopt
+----------------
+T[358] - nversion b
+Sorted T[358] -  beinnorsv
+----------------
+T[359] - etween pri
+Sorted T[359] -  eeeinprtw
+----------------
+T[360] - mitive typ
+Sorted T[360] -  eiimpttvy
+----------------
+T[361] - es weakens
+Sorted T[361] -  aeeeknssw
+----------------
+T[362] - the separ
+Sorted T[362] -  aeehprst
+----------------
+T[363] - ation of t
+Sorted T[363] -   afinoott
+----------------
+T[364] - he differe
+Sorted T[364] -  deeeffhir
+----------------
+T[365] - nt types U
+Sorted T[365] -   Uenpstty
+----------------
+T[366] - ser-define
+Sorted T[366] - -deeefinrs
+----------------
+T[367] - d data typ
+Sorted T[367] -   aaddptty
+----------------
+T[368] - es allow f
+Sorted T[368] -   aefllosw
+----------------
+T[369] - or aliasin
+Sorted T[369] -  aaiilnors
+----------------
+T[370] - g a data t
+Sorted T[370] -    aaadgtt
+----------------
+T[371] - ype specif
+Sorted T[371] -  ceefippsy
+----------------
+T[372] - ier Syntax
+Sorted T[372] -  Saeinrtxy
+----------------
+T[373] - for array
+Sorted T[373] -  aaforrry
+----------------
+T[374] - definitio
+Sorted T[374] - defiiinot
+----------------
+T[375] - n and acce
+Sorted T[375] -   aaccdenn
+----------------
+T[376] - ss is via
+Sorted T[376] -   aiisssv
+----------------
+T[377] - square bra
+Sorted T[377] -  aabeqrrsu
+----------------
+T[378] - cket notat
+Sorted T[378] -  aceknottt
+----------------
+T[379] - ion, for e
+Sorted T[379] -   ,efinoor
+----------------
+T[380] - xample mon
+Sorted T[380] -  aelmmnopx
+----------------
+T[381] - th[11]. In
+Sorted T[381] -  .11I[]hnt
+----------------
+T[382] - dexing is
+Sorted T[382] -  degiinsx
+----------------
+T[383] - defined in
+Sorted T[383] -  ddeefiinn
+----------------
+T[384] - terms of
+Sorted T[384] -  efmorst
+----------------
+T[385] - pointer ar
+Sorted T[385] -  aeinoprrt
+----------------
+T[386] - ithmetic.
+Sorted T[386] - .cehiimtt
+----------------
+T[387] - Whole arra
+Sorted T[387] -  Waaehlorr
+----------------
+T[388] - ys cannot
+Sorted T[388] -  acnnosty
+----------------
+T[389] - be copied
+Sorted T[389] -  bcdeeiop
+----------------
+T[390] - or compare
+Sorted T[390] -  acemooprr
+----------------
+T[391] - d without
+Sorted T[391] -  dhiottuw
+----------------
+T[392] - custom or
+Sorted T[392] -  cmoorstu
+----------------
+T[393] - library co
+Sorted T[393] -  abcilorry
+----------------
+T[394] - de User-de
+Sorted T[394] -  -Uddeeers
+----------------
+T[395] - fined stru
+Sorted T[395] -  definrstu
+----------------
+T[396] - cture type
+Sorted T[396] -  ceeprttuy
+----------------
+T[397] - s allow re
+Sorted T[397] -   aellorsw
+----------------
+T[398] - lated data
+Sorted T[398] -  aaaddeltt
+----------------
+T[399] - elements
+Sorted T[399] - eeelmnst
+----------------
+T[400] - to be pass
+Sorted T[400] -   abeopsst
+----------------
+T[401] - ed and cop
+Sorted T[401] -   acddenop
+----------------
+T[402] - ied as a u
+Sorted T[402] -    aadeisu
+----------------
+T[403] - nit althou
+Sorted T[403] -  ahilnottu
+----------------
+T[404] - gh two str
+Sorted T[404] -   ghorsttw
+----------------
+T[405] - uctures ca
+Sorted T[405] -  accerstuu
+----------------
+T[406] - nnot be co
+Sorted T[406] -   bcennoot
+----------------
+T[407] - mpared wit
+Sorted T[407] -  adeimprtw
+----------------
+T[408] - hout custo
+Sorted T[408] -  choosttuu
+----------------
+T[409] - m code to
+Sorted T[409] -   cdemoot
+----------------
+T[410] - compare ea
+Sorted T[410] -  aaceemopr
+----------------
+T[411] - ch field U
+Sorted T[411] -   Ucdefhil
+----------------
+T[412] - ser-define
+Sorted T[412] - -deeefinrs
+----------------
+T[413] - d union ty
+Sorted T[413] -   dinnotuy
+----------------
+T[414] - pes suppor
+Sorted T[414] -  eoppprssu
+----------------
+T[415] - t overlapp
+Sorted T[415] -  aelopprtv
+----------------
+T[416] - ing member
+Sorted T[416] -  beegimmnr
+----------------
+T[417] - s; allowin
+Sorted T[417] -  ;aillnosw
+----------------
+T[418] - g multiple
+Sorted T[418] -  egillmptu
+----------------
+T[419] - data type
+Sorted T[419] -  aadeptty
+----------------
+T[420] - s to share
+Sorted T[420] -   aehorsst
+----------------
+T[421] - the same
+Sorted T[421] -  aeehmst
+----------------
+T[422] - memory loc
+Sorted T[422] -  celmmoory
+----------------
+T[423] - ation User
+Sorted T[423] -  Uaeinorst
+----------------
+T[424] - -defined e
+Sorted T[424] -  -ddeeefin
+----------------
+T[425] - numeration
+Sorted T[425] - aeimnnortu
+----------------
+T[426] - types sup
+Sorted T[426] -  eppsstuy
+----------------
+T[427] - port alias
+Sorted T[427] -  aailoprst
+----------------
+T[428] - ing intege
+Sorted T[428] -  eeggiinnt
+----------------
+T[429] - r values L
+Sorted T[429] -   Laelrsuv
+----------------
+T[430] - acks a str
+Sorted T[430] -   aackrsst
+----------------
+T[431] - ing type b
+Sorted T[431] -   beginpty
+----------------
+T[432] - ut has syn
+Sorted T[432] -   ahnsstuy
+----------------
+T[433] - tax for nu
+Sorted T[433] -   afnortux
+----------------
+T[434] - ll-termina
+Sorted T[434] - -aeillmnrt
+----------------
+T[435] - ted string
+Sorted T[435] -  deginrstt
+----------------
+T[436] - s with ass
+Sorted T[436] -   ahissstw
+----------------
+T[437] - ociated ha
+Sorted T[437] -  aacdehiot
+----------------
+T[438] - ndling in
+Sorted T[438] -  dgiilnnn
+----------------
+T[439] - its standa
+Sorted T[439] -  aadinsstt
+----------------
+T[440] - rd library
+Sorted T[440] -  abdilrrry
+----------------
+T[441] - Supports
+Sorted T[441] - Sopprstu
+----------------
+T[442] - low-level
+Sorted T[442] - -eelllovw
+----------------
+T[443] - access to
+Sorted T[443] -  acceosst
+----------------
+T[444] - computer m
+Sorted T[444] -  cemmoprtu
+----------------
+T[445] - emory via
+Sorted T[445] -  aeimorvy
+----------------
+T[446] - pointers S
+Sorted T[446] -  Seinoprst
+----------------
+T[447] - upports pr
+Sorted T[447] -  oppprrstu
+----------------
+T[448] - ocedure-li
+Sorted T[448] - -cdeeiloru
+----------------
+T[449] - ke constru
+Sorted T[449] -  ceknorstu
+----------------
+T[450] - ct as a fu
+Sorted T[450] -    aacfstu
+----------------
+T[451] - nction ret
+Sorted T[451] -  ceinnortt
+----------------
+T[452] - urning voi
+Sorted T[452] -  giinnoruv
+----------------
+T[453] - d Supports
+Sorted T[453] -  Sdopprstu
+----------------
+T[454] - dynamic m
+Sorted T[454] -  acdimmny
+----------------
+T[455] - emory via
+Sorted T[455] -  aeimorvy
+----------------
+T[456] - standard l
+Sorted T[456] -  aaddlnrst
+----------------
+T[457] - ibrary fun
+Sorted T[457] -  abfinrruy
+----------------
+T[458] - ctions Inc
+Sorted T[458] -  Iccinnost
+----------------
+T[459] - ludes the
+Sorted T[459] -  deehlstu
+----------------
+T[460] - C preproce
+Sorted T[460] -  Cceeopprr
+----------------
+T[461] - ssor to pe
+Sorted T[461] -   eooprsst
+----------------
+T[462] - rform macr
+Sorted T[462] -  acfmmorrr
+----------------
+T[463] - o definiti
+Sorted T[463] -  defiiinot
+----------------
+T[464] - on, source
+Sorted T[464] -  ,cenoorsu
+----------------
+T[465] - code file
+Sorted T[465] -  cdeefilo
+----------------
+T[466] - inclusion
+Sorted T[466] - ciilnnosu
+----------------
+T[467] - , and cond
+Sorted T[467] -   ,acddnno
+----------------
+T[468] - itional co
+Sorted T[468] -  aciilnoot
+----------------
+T[469] - mpilation
+Sorted T[469] - aiilmnopt
+----------------
+T[470] - Supports m
+Sorted T[470] -  Smopprstu
+----------------
+T[471] - odularity
+Sorted T[471] - adilortuy
+----------------
+T[472] - in that fi
+Sorted T[472] -   afhiintt
+----------------
+T[473] - les are pr
+Sorted T[473] -   aeelprrs
+----------------
+T[474] - ocessed se
+Sorted T[474] -  cdeeeosss
+----------------
+T[475] - parately,
+Sorted T[475] - ,aaelprty
+----------------
+T[476] - with visib
+Sorted T[476] -  bhiiistvw
+----------------
+T[477] - ility cont
+Sorted T[477] -  ciilnotty
+----------------
+T[478] - rol via st
+Sorted T[478] -   ailorstv
+----------------
+T[479] - atic and e
+Sorted T[479] -   aacdeint
+----------------
+T[480] - xtern attr
+Sorted T[480] -  aenrrtttx
+----------------
+T[481] - ibutes Min
+Sorted T[481] -  Mbeiinstu
+----------------
+T[482] - imized fun
+Sorted T[482] -  defiimnuz
+----------------
+T[483] - ctionality
+Sorted T[483] - aciilnotty
+----------------
+T[484] - in the co
+Sorted T[484] -   cehinot
+----------------
+T[485] - re languag
+Sorted T[485] -  aaegglnru
+----------------
+T[486] - e while re
+Sorted T[486] -   eeehilrw
+----------------
+T[487] - latively c
+Sorted T[487] -  aceilltvy
+----------------
+T[488] - omplex fun
+Sorted T[488] -  eflmnopux
+----------------
+T[489] - ctionality
+Sorted T[489] - aciilnotty
+----------------
+T[490] - such as I
+Sorted T[490] -   Iachssu
+----------------
+T[491] - /O, string
+Sorted T[491] -  ,/Oginrst
+----------------
+T[492] - manipulat
+Sorted T[492] - aailmnptu
+----------------
+T[493] - ion, and m
+Sorted T[493] -   ,adimnno
+----------------
+T[494] - athematica
+Sorted T[494] - aaacehimtt
+----------------
+T[495] - l function
+Sorted T[495] -  cfilnnotu
+----------------
+T[496] - s supporte
+Sorted T[496] -  eopprsstu
+----------------
+T[497] - d via stan
+Sorted T[497] -   aadinstv
+----------------
+T[498] - dard libra
+Sorted T[498] -  aabddilrr
+----------------
+T[499] - ry functio
+Sorted T[499] -  cfinortuy
+----------------
+T[500] - ns Resulti
+Sorted T[500] -  Reilnsstu
+----------------
+T[501] - ng compile
+Sorted T[501] -  cegilmnop
+----------------
+T[502] - d code has
+Sorted T[502] -   acddehos
+----------------
+T[503] - relativel
+Sorted T[503] - aeeillrtv
+----------------
+T[504] - y straight
+Sorted T[504] -  aghirstty
+----------------
+T[505] - forward ne
+Sorted T[505] -  adefnorrw
+----------------
+T[506] - eds on the
+Sorted T[506] -   deehnost
+----------------
+T[507] - underlyin
+Sorted T[507] - deilnnruy
+----------------
+T[508] - g platform
+Sorted T[508] -  afglmoprt
+----------------
+T[509] - , making i
+Sorted T[509] -   ,agiikmn
+----------------
+T[510] - t desirabl
+Sorted T[510] -  abdeilrst
+----------------
+T[511] - e for oper
+Sorted T[511] -   eefooprr
+----------------
+T[512] - ating and
+Sorted T[512] -  aadginnt
+----------------
+T[513] - embedded s
+Sorted T[513] -  bdddeeems
+----------------
+T[514] - ystems "He
+Sorted T[514] -  "Heemssty
+----------------
+T[515] - llo, world
+Sorted T[515] -  ,dllloorw
+----------------
+T[516] - " example
+Sorted T[516] -  "aeelmpx
+----------------
+T[517] - "Hello, Wo
+Sorted T[517] -  ",HWelloo
+----------------
+T[518] - rld!" prog
+Sorted T[518] -  !"dgloprr
+----------------
+T[519] - ram by Bri
+Sorted T[519] -   Babimrry
+----------------
+T[520] - an Kernigh
+Sorted T[520] -  Kaeghinnr
+----------------
+T[521] - an (1978)
+Sorted T[521] -  ()1789an
+----------------
+T[522] - The "Hello
+Sorted T[522] -  "HTeehllo
+----------------
+T[523] - , World!"
+Sorted T[523] -  !",Wdlor
+----------------
+T[524] - program ex
+Sorted T[524] -  aegmoprrx
+----------------
+T[525] - ample that
+Sorted T[525] -  aaehlmptt
+----------------
+T[526] - appeared
+Sorted T[526] - aadeeppr
+----------------
+T[527] - in the fir
+Sorted T[527] -   efhiinrt
+----------------
+T[528] - st edition
+Sorted T[528] -  deiinostt
+----------------
+T[529] - of K&R ha
+Sorted T[529] -   &KRafho
+----------------
+T[530] - s become t
+Sorted T[530] -   bceemost
+----------------
+T[531] - he model f
+Sorted T[531] -   deefhlmo
+----------------
+T[532] - or an intr
+Sorted T[532] -   ainnorrt
+----------------
+T[533] - oductory p
+Sorted T[533] -  cdooprtuy
+----------------
+T[534] - rogram in
+Sorted T[534] -  agimnorr
+----------------
+T[535] - most progr
+Sorted T[535] -  gmooprrst
+----------------
+T[536] - amming tex
+Sorted T[536] -  aegimmntx
+----------------
+T[537] - tbooks. Th
+Sorted T[537] -  .Tbhkoost
+----------------
+T[538] - e program
+Sorted T[538] -  aegmoprr
+----------------
+T[539] - prints "he
+Sorted T[539] -  "ehinprst
+----------------
+T[540] - llo, world
+Sorted T[540] -  ,dllloorw
+----------------
+T[541] - " to the s
+Sorted T[541] -    "ehostt
+----------------
+T[542] - tandard ou
+Sorted T[542] -  aaddnortu
+----------------
+T[543] - tput. The
+Sorted T[543] -  .Tehpttu
+----------------
+T[544] - original v
+Sorted T[544] -  agiilnorv
+----------------
+T[545] - ersion was
+Sorted T[545] -  aeinorssw
+----------------
+T[546] - :[17] main
+Sorted T[546] -  17:[]aimn
+----------------
+T[547] - () { print
+Sorted T[547] -   ()inprt{
+----------------
+T[548] - f("hello,
+Sorted T[548] - "(,efhllo
+----------------
+T[549] - world\n");
+Sorted T[549] - ");\dlnorw
+----------------
+T[550] - } A more
+Sorted T[550] -   Aemor}
+----------------
+T[551] - modern ver
+Sorted T[551] -  deemnorrv
+----------------
+T[552] - sion is:[d
+Sorted T[552] -  :[diinoss
+----------------
+T[553] - ] #include
+Sorted T[553] -  #]cdeilnu
+----------------
+T[554] - <stdio.h>
+Sorted T[554] - .<>dhiost
+----------------
+T[555] - int main(
+Sorted T[555] -  (aiimnnt
+----------------
+T[556] - void) { pr
+Sorted T[556] -   )dioprv{
+----------------
+T[557] - intf("hell
+Sorted T[557] - "(efhillnt
+----------------
+T[558] - o, world\n
+Sorted T[558] -  ,\dlnoorw
+----------------
+T[559] - "); } The
+Sorted T[559] -   ");Teh}
+----------------
+T[560] - first line
+Sorted T[560] -  efiilnrst
+----------------
+T[561] - is a prep
+Sorted T[561] -   aeipprs
+----------------
+T[562] - rocessor d
+Sorted T[562] -  cdeoorrss
+----------------
+T[563] - irective,
+Sorted T[563] - ,ceeiirtv
+----------------
+T[564] - indicated
+Sorted T[564] - acddeiint
+----------------
+T[565] - by #includ
+Sorted T[565] -  #bcdilnuy
+----------------
+T[566] - e, which c
+Sorted T[566] -   ,ccehhiw
+----------------
+T[567] - auses the
+Sorted T[567] -  aeehsstu
+----------------
+T[568] - preprocess
+Sorted T[568] - ceeopprrss
+----------------
+T[569] - or to repl
+Sorted T[569] -   elooprrt
+----------------
+T[570] - ace that l
+Sorted T[570] -   aacehltt
+----------------
+T[571] - ine of cod
+Sorted T[571] -   cdefinoo
+----------------
+T[572] - e with the
+Sorted T[572] -   eehhittw
+----------------
+T[573] - text of t
+Sorted T[573] -   efotttx
+----------------
+T[574] - he stdio.h
+Sorted T[574] -  .dehhiost
+----------------
+T[575] - header fi
+Sorted T[575] -  adeefhir
+----------------
+T[576] - le, which
+Sorted T[576] -  ,cehhilw
+----------------
+T[577] - contains d
+Sorted T[577] -  acdinnost
+----------------
+T[578] - eclarations
+Sorted T[578] - aaceilnorst
+----------------
+T[579] - for input
+Sorted T[579] -  finoprtu
+----------------
+T[580] - and outpu
+Sorted T[580] -  adnoptuu
+----------------
+T[581] - t function
+Sorted T[581] -  cfinnottu
+----------------
+T[582] - s includin
+Sorted T[582] -  cdiilnnsu
+----------------
+T[583] - g printf.
+Sorted T[583] -  .fginprt
+----------------
+T[584] - The angle
+Sorted T[584] -  Taeeghln
+----------------
+T[585] - brackets a
+Sorted T[585] -  aabcekrst
+----------------
+T[586] - round stdi
+Sorted T[586] -  ddinorstu
+----------------
+T[587] - o.h indica
+Sorted T[587] -  .acdhiino
+----------------
+T[588] - te that th
+Sorted T[588] -   aehhtttt
+----------------
+T[589] - e header f
+Sorted T[589] -   adeeefhr
+----------------
+T[590] - ile can be
+Sorted T[590] -   abceeiln
+----------------
+T[591] - located u
+Sorted T[591] -  acdelotu
+----------------
+T[592] - sing a sea
+Sorted T[592] -   aaeginss
+----------------
+T[593] - rch strate
+Sorted T[593] -  acehrrstt
+----------------
+T[594] - gy that se
+Sorted T[594] -   aeghstty
+----------------
+T[595] - lects head
+Sorted T[595] -  acdeehlst
+----------------
+T[596] - er files p
+Sorted T[596] -   eefilprs
+----------------
+T[597] - rovided wi
+Sorted T[597] -  ddeiiorvw
+----------------
+T[598] - th the com
+Sorted T[598] -   cehhmott
+----------------
+T[599] - piler over
+Sorted T[599] -  eeiloprrv
+----------------
+T[600] - files wit
+Sorted T[600] -  efiilstw
+----------------
+T[601] - h the same
+Sorted T[601] -   aeehhmst
+----------------
+T[602] - name that
+Sorted T[602] -  aaehmntt
+----------------
+T[603] - may be fo
+Sorted T[603] -   abefmoy
+----------------
+T[604] - und in pro
+Sorted T[604] -   dinnopru
+----------------
+T[605] - ject-specifi
+Sorted T[605] - -cceefiijpst
+----------------
+T[606] - c director
+Sorted T[606] -  ccdeiorrt
+----------------
+T[607] - ies. The n
+Sorted T[607] -   .Teehins
+----------------
+T[608] - ext code l
+Sorted T[608] -   cdeelotx
+----------------
+T[609] - ine declar
+Sorted T[609] -  acdeeilnr
+----------------
+T[610] - es the ent
+Sorted T[610] -   eeehnstt
+----------------
+T[611] - ry point f
+Sorted T[611] -   finoprty
+----------------
+T[612] - unction ma
+Sorted T[612] -  acimnnotu
+----------------
+T[613] - in. The ru
+Sorted T[613] -   .Tehinru
+----------------
+T[614] - n-time env
+Sorted T[614] -  -eeimnntv
+----------------
+T[615] - ironment c
+Sorted T[615] -  ceimnnort
+----------------
+T[616] - alls this
+Sorted T[616] -  ahillsst
+----------------
+T[617] - function t
+Sorted T[617] -  cfinnottu
+----------------
+T[618] - o begin pr
+Sorted T[618] -   beginopr
+----------------
+T[619] - ogram exec
+Sorted T[619] -  aceegmorx
+----------------
+T[620] - ution. The
+Sorted T[620] -  .Tehinotu
+----------------
+T[621] - type spec
+Sorted T[621] -  ceeppsty
+----------------
+T[622] - ifier int
+Sorted T[622] -  efiiinrt
+----------------
+T[623] - indicates
+Sorted T[623] - acdeiinst
+----------------
+T[624] - that the f
+Sorted T[624] -   aefhhttt
+----------------
+T[625] - unction re
+Sorted T[625] -  ceinnortu
+----------------
+T[626] - turns an i
+Sorted T[626] -   ainnrstu
+----------------
+T[627] - nteger val
+Sorted T[627] -  aeeglnrtv
+----------------
+T[628] - ue. The vo
+Sorted T[628] -   .Teehouv
+----------------
+T[629] - id paramet
+Sorted T[629] -  aadeimprt
+----------------
+T[630] - er list in
+Sorted T[630] -   eiilnrst
+----------------
+T[631] - dicates th
+Sorted T[631] -  acdehistt
+----------------
+T[632] - at the fun
+Sorted T[632] -   aefhnttu
+----------------
+T[633] - ction cons
+Sorted T[633] -  ccinnoost
+----------------
+T[634] - umes no ar
+Sorted T[634] -   aemnorsu
+----------------
+T[635] - guments. T
+Sorted T[635] -  .Tegmnstu
+----------------
+T[636] - he run-tim
+Sorted T[636] -  -ehimnrtu
+----------------
+T[637] - e environm
+Sorted T[637] -  eeimnnorv
+----------------
+T[638] - ent actual
+Sorted T[638] -  aacelnttu
+----------------
+T[639] - ly passes
+Sorted T[639] -  aelpsssy
+----------------
+T[640] - two argume
+Sorted T[640] -  aegmortuw
+----------------
+T[641] - nts (typed
+Sorted T[641] -  (denpstty
+----------------
+T[642] - int and c
+Sorted T[642] -   acdinnt
+----------------
+T[643] - har *[]),
+Sorted T[643] -  )*,[]ahr
+----------------
+T[644] - but this i
+Sorted T[644] -   bhiisttu
+----------------
+T[645] - mplementat
+Sorted T[645] - aeelmmnptt
+----------------
+T[646] - ion ignore
+Sorted T[646] -  egiinnoor
+----------------
+T[647] - s them. Th
+Sorted T[647] -   .Tehhmst
+----------------
+T[648] - e ISO C st
+Sorted T[648] -    CIOSest
+----------------
+T[649] - andard (se
+Sorted T[649] -  (aaddenrs
+----------------
+T[650] - ction 5.1.
+Sorted T[650] -  ..15cinot
+----------------
+T[651] - 2.2.1) req
+Sorted T[651] -  )..122eqr
+----------------
+T[652] - uires synt
+Sorted T[652] -  einrsstuy
+----------------
+T[653] - ax that ei
+Sorted T[653] -   aaehittx
+----------------
+T[654] - ther is vo
+Sorted T[654] -   ehiorstv
+----------------
+T[655] - id or thes
+Sorted T[655] -   dehiorst
+----------------
+T[656] - e two argu
+Sorted T[656] -   aegortuw
+----------------
+T[657] - ments â€“ a
+Sorted T[657] - €“â  aemnst
+----------------
+T[658] - special tr
+Sorted T[658] -  aceilprst
+----------------
+T[659] - eatment no
+Sorted T[659] -  aeemnnott
+----------------
+T[660] - t afforded
+Sorted T[660] -  addeffort
+----------------
+T[661] - to other
+Sorted T[661] -  ehoortt
+----------------
+T[662] - functions.
+Sorted T[662] - .cfinnostu
+----------------
+T[663] - The openi
+Sorted T[663] -  Teehinop
+----------------
+T[664] - ng curly b
+Sorted T[664] -   bcglnruy
+----------------
+T[665] - race indic
+Sorted T[665] -  accdeiinr
+----------------
+T[666] - ates the b
+Sorted T[666] -   abeehstt
+----------------
+T[667] - eginning o
+Sorted T[667] -  eggiinnno
+----------------
+T[668] - f the code
+Sorted T[668] -   cdeefhot
+----------------
+T[669] - that defi
+Sorted T[669] -  adefhitt
+----------------
+T[670] - nes the fu
+Sorted T[670] -   eefhnstu
+----------------
+T[671] - nction. Th
+Sorted T[671] -  .Tchinnot
+----------------
+T[672] - e next lin
+Sorted T[672] -   eeilnntx
+----------------
+T[673] - e of code
+Sorted T[673] -   cdeefoo
+----------------
+T[674] - calls (div
+Sorted T[674] -  (acdillsv
+----------------
+T[675] - erts execu
+Sorted T[675] -  ceeerstux
+----------------
+T[676] - tion to) t
+Sorted T[676] -   )inoottt
+----------------
+T[677] - he C stand
+Sorted T[677] -   Cadehnst
+----------------
+T[678] - ard librar
+Sorted T[678] -  aabdilrrr
+----------------
+T[679] - y function
+Sorted T[679] -  cfinnotuy
+----------------
+T[680] - printf wi
+Sorted T[680] -  fiinprtw
+----------------
+T[681] - th the add
+Sorted T[681] -   addehhtt
+----------------
+T[682] - ress of th
+Sorted T[682] -   efhorsst
+----------------
+T[683] - e first ch
+Sorted T[683] -   cefhirst
+----------------
+T[684] - aracter of
+Sorted T[684] -  aaceforrt
+----------------
+T[685] - a null-te
+Sorted T[685] -  -aellntu
+----------------
+T[686] - rminated s
+Sorted T[686] -  adeimnrst
+----------------
+T[687] - tring spec
+Sorted T[687] -  ceginprst
+----------------
+T[688] - ified as a
+Sorted T[688] -   aadefiis
+----------------
+T[689] - string li
+Sorted T[689] -  giilnrst
+----------------
+T[690] - teral. The
+Sorted T[690] -  .Taeehlrt
+----------------
+T[691] - text \n i
+Sorted T[691] -   \einttx
+----------------
+T[692] - s an escap
+Sorted T[692] -   aacenpss
+----------------
+T[693] - e sequence
+Sorted T[693] -  ceeeenqsu
+----------------
+T[694] - that deno
+Sorted T[694] -  adehnott
+----------------
+T[695] - tes the ne
+Sorted T[695] -   eeehnstt
+----------------
+T[696] - wline char
+Sorted T[696] -  acehilnrw
+----------------
+T[697] - acter whic
+Sorted T[697] -  accehirtw
+----------------
+T[698] - h when out
+Sorted T[698] -   ehhnotuw
+----------------
+T[699] - put in a t
+Sorted T[699] -    ainpttu
+----------------
+T[700] - erminal re
+Sorted T[700] -  aeeilmnrr
+----------------
+T[701] - sults in m
+Sorted T[701] -   ilmnsstu
+----------------
+T[702] - oving the
+Sorted T[702] -  eghinotv
+----------------
+T[703] - cursor to
+Sorted T[703] -  coorrstu
+----------------
+T[704] - the beginn
+Sorted T[704] -  beeghinnt
+----------------
+T[705] - ing of the
+Sorted T[705] -   efghinot
+----------------
+T[706] - next line
+Sorted T[706] -  eeilnntx
+----------------
+T[707] - . Even tho
+Sorted T[707] -   .Eehnotv
+----------------
+T[708] - ugh printf
+Sorted T[708] -  fghinprtu
+----------------
+T[709] - returns a
+Sorted T[709] -  aenrrstu
+----------------
+T[710] - n int valu
+Sorted T[710] -   ailnntuv
+----------------
+T[711] - e, it is s
+Sorted T[711] -    ,eiisst
+----------------
+T[712] - ilently di
+Sorted T[712] -  deiillnty
+----------------
+T[713] - scarded. T
+Sorted T[713] -  .Tacdders
+----------------
+T[714] - he semicol
+Sorted T[714] -  ceehilmos
+----------------
+T[715] - on ; termi
+Sorted T[715] -   ;eimnort
+----------------
+T[716] - nates the
+Sorted T[716] -  aeehnstt
+----------------
+T[717] - call state
+Sorted T[717] -  aacellstt
+----------------
+T[718] - ment. The
+Sorted T[718] -  .Teehmnt
+----------------
+T[719] - closing cu
+Sorted T[719] -  ccgilnosu
+----------------
+T[720] - rly brace
+Sorted T[720] -  abcelrry
+----------------
+T[721] - indicates
+Sorted T[721] - acdeiinst
+----------------
+T[722] - the end of
+Sorted T[722] -   deefhnot
+----------------
+T[723] - the main
+Sorted T[723] -  aehimnt
+----------------
+T[724] - function.
+Sorted T[724] - .cfinnotu
+----------------
+T[725] - Prior to C
+Sorted T[725] -   CPioorrt
+----------------
+T[726] - 99, an exp
+Sorted T[726] -   ,99aenpx
+----------------
+T[727] - licit retu
+Sorted T[727] -  ceiilrttu
+----------------
+T[728] - rn 0; stat
+Sorted T[728] -   0;anrstt
+----------------
+T[729] - ement was
+Sorted T[729] -  aeemnstw
+----------------
+T[730] - required a
+Sorted T[730] -  adeeiqrru
+----------------
+T[731] - t the end
+Sorted T[731] -   deehntt
+----------------
+T[732] - of main fu
+Sorted T[732] -   affimnou
+----------------
+T[733] - nction, bu
+Sorted T[733] -  ,bcinnotu
+----------------
+T[734] - t since C9
+Sorted T[734] -   9Cceinst
+----------------
+T[735] - 9, the mai
+Sorted T[735] -   ,9aehimt
+----------------
+T[736] - n function
+Sorted T[736] -  cfinnnotu
+----------------
+T[737] - (as being
+Sorted T[737] -  (abegins
+----------------
+T[738] - the initi
+Sorted T[738] -  ehiiintt
+----------------
+T[739] - al functio
+Sorted T[739] -  acfilnotu
+----------------
+T[740] - n call) im
+Sorted T[740] -   )acillmn
+----------------
+T[741] - plicitly r
+Sorted T[741] -  ciillprty
+----------------
+T[742] - eturns 0 u
+Sorted T[742] -   0enrstuu
+----------------
+T[743] - pon reachi
+Sorted T[743] -  acehinopr
+----------------
+T[744] - ng its fin
+Sorted T[744] -   fgiinnst
+----------------
+T[745] - al closing
+Sorted T[745] -  acgillnos
+----------------
+T[746] - curly bra
+Sorted T[746] -  abclrruy
+----------------
+T[747] - ce.[e] His
+Sorted T[747] -  .H[]ceeis
+----------------
+T[748] - tory Early
+Sorted T[748] -  Ealorrtyy
+----------------
+T[749] - developme
+Sorted T[749] - deeelmopv
+----------------
+T[750] - nts Timeli
+Sorted T[750] -  Teiilmnst
+----------------
+T[751] - ne of C la
+Sorted T[751] -    Caeflno
+----------------
+T[752] - nguage Yea
+Sorted T[752] -  Yaaeeggnu
+----------------
+T[753] - r Informal
+Sorted T[753] -  Iaflmnorr
+----------------
+T[754] - name Offi
+Sorted T[754] -  Oaeffimn
+----------------
+T[755] - cial stand
+Sorted T[755] -  aacdilnst
+----------------
+T[756] - ard 1972 f
+Sorted T[756] -   1279adfr
+----------------
+T[757] - irst relea
+Sorted T[757] -  aeeilrrst
+----------------
+T[758] - se â€” 1978
+Sorted T[758] - €”â  1789es
+----------------
+T[759] - K&R C â€” 19
+Sorted T[759] - €”â   &19CKR
+----------------
+T[760] - 89, 1990 A
+Sorted T[760] -   ,018999A
+----------------
+T[761] - NSI C, C89
+Sorted T[761] -   ,89CCINS
+----------------
+T[762] - , ISO C, C
+Sorted T[762] -    ,,CCIOS
+----------------
+T[763] - 90 ANSI X3
+Sorted T[763] -   039AINSX
+----------------
+T[764] - .159-1989
+Sorted T[764] - -.1158999
+----------------
+T[765] - ISO/IEC 98
+Sorted T[765] -  /89CEIIOS
+----------------
+T[766] - 99:1990 19
+Sorted T[766] -  01199999:
+----------------
+T[767] - 99 C99, C9
+Sorted T[767] -   ,99999CC
+----------------
+T[768] - X ISO/IEC
+Sorted T[768] -  /CEIIOSX
+----------------
+T[769] - 9899:1999
+Sorted T[769] - 18999999:
+----------------
+T[770] - 2011 C11,
+Sorted T[770] -  ,011112C
+----------------
+T[771] - C1X ISO/IE
+Sorted T[771] -  /1CEIIOSX
+----------------
+T[772] - C 9899:201
+Sorted T[772] -  0128999:C
+----------------
+T[773] - 1 2018 C17
+Sorted T[773] -   0111278C
+----------------
+T[774] - , C18 ISO/
+Sorted T[774] -   ,/18CIOS
+----------------
+T[775] - IEC 9899:2
+Sorted T[775] -  28999:CEI
+----------------
+T[776] - 018 2024 C
+Sorted T[776] -   0012248C
+----------------
+T[777] - 23, C2X IS
+Sorted T[777] -   ,223CISX
+----------------
+T[778] - O/IEC 9899
+Sorted T[778] -  /8999CEIO
+----------------
+T[779] - :2024 TBA
+Sorted T[779] -  0224:ABT
+----------------
+T[780] - C2Y The or
+Sorted T[780] -   2CTYehor
+----------------
+T[781] - igin of C
+Sorted T[781] -   Cfgiino
+----------------
+T[782] - is closely
+Sorted T[782] -  ceillossy
+----------------
+T[783] - tied to t
+Sorted T[783] -   deiottt
+----------------
+T[784] - he develop
+Sorted T[784] -  deeehlopv
+----------------
+T[785] - ment of th
+Sorted T[785] -   efhmnott
+----------------
+T[786] - e Unix ope
+Sorted T[786] -   Ueeinopx
+----------------
+T[787] - rating sys
+Sorted T[787] -  aginrssty
+----------------
+T[788] - tem, origi
+Sorted T[788] -  ,egiimort
+----------------
+T[789] - nally impl
+Sorted T[789] -  ailllmnpy
+----------------
+T[790] - emented in
+Sorted T[790] -  deeeimnnt
+----------------
+T[791] - assembly
+Sorted T[791] - abelmssy
+----------------
+T[792] - language o
+Sorted T[792] -  aaegglnou
+----------------
+T[793] - n a PDP-7
+Sorted T[793] -   -7DPPan
+----------------
+T[794] - by Dennis
+Sorted T[794] -  Dbeinnsy
+----------------
+T[795] - Ritchie an
+Sorted T[795] -  Racehiint
+----------------
+T[796] - d Ken Thom
+Sorted T[796] -   KTdehmno
+----------------
+T[797] - pson, inco
+Sorted T[797] -  ,cinnoops
+----------------
+T[798] - rporating
+Sorted T[798] - aginoprrt
+----------------
+T[799] - several id
+Sorted T[799] -  adeeilrsv
+----------------
+T[800] - eas from c
+Sorted T[800] -   acefmors
+----------------
+T[801] - olleagues.
+Sorted T[801] - .aeegllosu
+----------------
+T[802] - Eventuall
+Sorted T[802] - Eaellntuv
+----------------
+T[803] - y, they de
+Sorted T[803] -   ,deehtyy
+----------------
+T[804] - cided to p
+Sorted T[804] -   cddeiopt
+----------------
+T[805] - ort the op
+Sorted T[805] -   ehooprtt
+----------------
+T[806] - erating sy
+Sorted T[806] -  aeginrsty
+----------------
+T[807] - stem to a
+Sorted T[807] -   aemostt
+----------------
+T[808] - PDP-11. Th
+Sorted T[808] -  -.11DPPTh
+----------------
+T[809] - e original
+Sorted T[809] -  aegiilnor
+----------------
+T[810] - PDP-11 ve
+Sorted T[810] -  -11DPPev
+----------------
+T[811] - rsion of U
+Sorted T[811] -   Ufinoors
+----------------
+T[812] - nix was al
+Sorted T[812] -   aailnswx
+----------------
+T[813] - so develop
+Sorted T[813] -  deeloopsv
+----------------
+T[814] - ed in asse
+Sorted T[814] -   adeeinss
+----------------
+T[815] - mbly langu
+Sorted T[815] -  abgllmnuy
+----------------
+T[816] - age.[12] B
+Sorted T[816] -  .12B[]aeg
+----------------
+T[817] - Main arti
+Sorted T[817] -  Maaiinrt
+----------------
+T[818] - cle: B (pr
+Sorted T[818] -   (:Bcelpr
+----------------
+T[819] - ogramming
+Sorted T[819] - aggimmnor
+----------------
+T[820] - language)
+Sorted T[820] - )aaegglnu
+----------------
+T[821] - Thompson w
+Sorted T[821] -  Thmnoopsw
+----------------
+T[822] - anted a pr
+Sorted T[822] -   aadenprt
+----------------
+T[823] - ogramming
+Sorted T[823] - aggimmnor
+----------------
+T[824] - language f
+Sorted T[824] -  aaefgglnu
+----------------
+T[825] - or develop
+Sorted T[825] -  deelooprv
+----------------
+T[826] - ing utilit
+Sorted T[826] -  giiilnttu
+----------------
+T[827] - ies for th
+Sorted T[827] -   efhiorst
+----------------
+T[828] - e new plat
+Sorted T[828] -   aeelnptw
+----------------
+T[829] - form. He f
+Sorted T[829] -   .Heffmor
+----------------
+T[830] - irst tried
+Sorted T[830] -  deiirrstt
+----------------
+T[831] - writing a
+Sorted T[831] -  agiinrtw
+----------------
+T[832] - Fortran c
+Sorted T[832] -  Facnorrt
+----------------
+T[833] - ompiler, b
+Sorted T[833] -  ,beilmopr
+----------------
+T[834] - ut he soon
+Sorted T[834] -   ehnoostu
+----------------
+T[835] - gave up t
+Sorted T[835] -   aegptuv
+----------------
+T[836] - he idea an
+Sorted T[836] -   aadeehin
+----------------
+T[837] - d instead
+Sorted T[837] -  addeinst
+----------------
+T[838] - created a
+Sorted T[838] -  aacdeert
+----------------
+T[839] - cut-down v
+Sorted T[839] -  -cdnotuvw
+----------------
+T[840] - ersion of
+Sorted T[840] -  efinoors
+----------------
+T[841] - the recent
+Sorted T[841] -  ceeehnrtt
+----------------
+T[842] - ly develop
+Sorted T[842] -  deellopvy
+----------------
+T[843] - ed systems
+Sorted T[843] -  deemsssty
+----------------
+T[844] - programmi
+Sorted T[844] - agimmoprr
+----------------
+T[845] - ng languag
+Sorted T[845] -  aaggglnnu
+----------------
+T[846] - e called B
+Sorted T[846] -   Bacdeell
+----------------
+T[847] - CPL. The o
+Sorted T[847] -   .CLPTeho
+----------------
+T[848] - fficial de
+Sorted T[848] -  acdeffiil
+----------------
+T[849] - scription
+Sorted T[849] - ciinoprst
+----------------
+T[850] - of BCPL wa
+Sorted T[850] -   BCLPafow
+----------------
+T[851] - s not avai
+Sorted T[851] -   aainostv
+----------------
+T[852] - lable at t
+Sorted T[852] -   aabelltt
+----------------
+T[853] - he time,[1
+Sorted T[853] -  ,1[eehimt
+----------------
+T[854] - 9] and Tho
+Sorted T[854] -   9T]adhno
+----------------
+T[855] - mpson modi
+Sorted T[855] -  dimmnoops
+----------------
+T[856] - fied the s
+Sorted T[856] -   deefhist
+----------------
+T[857] - yntax to b
+Sorted T[857] -   abnottxy
+----------------
+T[858] - e less 'wo
+Sorted T[858] -   'eelossw
+----------------
+T[859] - rdy' and s
+Sorted T[859] -   'addnrsy
+----------------
+T[860] - imilar to
+Sorted T[860] -  aiilmort
+----------------
+T[861] - a simplifi
+Sorted T[861] -  afiiilmps
+----------------
+T[862] - ed ALGOL k
+Sorted T[862] -   AGLLOdek
+----------------
+T[863] - nown as SM
+Sorted T[863] -   MSannosw
+----------------
+T[864] - ALGOL.[20]
+Sorted T[864] - .02AGLLO[]
+----------------
+T[865] - He called
+Sorted T[865] -  Hacdeell
+----------------
+T[866] - the resul
+Sorted T[866] -  eehlrstu
+----------------
+T[867] - t B,[12] d
+Sorted T[867] -   ,12B[]dt
+----------------
+T[868] - escribing
+Sorted T[868] - bcegiinrs
+----------------
+T[869] - it as "BCP
+Sorted T[869] -   "BCPaist
+----------------
+T[870] - L semantic
+Sorted T[870] -  Laceimnst
+----------------
+T[871] - s with a l
+Sorted T[871] -    ahilstw
+----------------
+T[872] - ot of SMAL
+Sorted T[872] -   ALMSfoot
+----------------
+T[873] - GOL syntax
+Sorted T[873] -  GLOanstxy
+----------------
+T[874] - ".[20] Lik
+Sorted T[874] -  ".02L[]ik
+----------------
+T[875] - e BCPL, B
+Sorted T[875] -   ,BBCLPe
+----------------
+T[876] - had a boot
+Sorted T[876] -   aabdhoot
+----------------
+T[877] - strapping
+Sorted T[877] - aginpprst
+----------------
+T[878] - compiler t
+Sorted T[878] -  ceilmoprt
+----------------
+T[879] - o facilita
+Sorted T[879] -  aacfiilot
+----------------
+T[880] - te porting
+Sorted T[880] -  eginoprtt
+----------------
+T[881] - to new ma
+Sorted T[881] -   aemnotw
+----------------
+T[882] - chines.[20
+Sorted T[882] - .02[cehins
+----------------
+T[883] - ] Ultimate
+Sorted T[883] -  U]aeilmtt
+----------------
+T[884] - ly, few ut
+Sorted T[884] -   ,efltuwy
+----------------
+T[885] - ilities we
+Sorted T[885] -  eeiiilstw
+----------------
+T[886] - re written
+Sorted T[886] -  eeinrrttw
+----------------
+T[887] - in B beca
+Sorted T[887] -   Babcein
+----------------
+T[888] - use it was
+Sorted T[888] -   aeisstuw
+----------------
+T[889] - too slow
+Sorted T[889] -  looostw
+----------------
+T[890] - and could
+Sorted T[890] -  acddlnou
+----------------
+T[891] - not take a
+Sorted T[891] -   aaeknott
+----------------
+T[892] - dvantage o
+Sorted T[892] -  aadegnotv
+----------------
+T[893] - f PDP-11 f
+Sorted T[893] -   -11DPPff
+----------------
+T[894] - eatures su
+Sorted T[894] -  aeersstuu
+----------------
+T[895] - ch as byte
+Sorted T[895] -   abcehsty
+----------------
+T[896] - addressab
+Sorted T[896] - aabdderss
+----------------
+T[897] - ility. Unl
+Sorted T[897] -  .Uiillnty
+----------------
+T[898] - ike BCPL's
+Sorted T[898] -  'BCLPeiks
+----------------
+T[899] - // commen
+Sorted T[899] -  //cemmno
+----------------
+T[900] - t marking
+Sorted T[900] -  agikmnrt
+----------------
+T[901] - comments u
+Sorted T[901] -  cemmnostu
+----------------
+T[902] - p to the e
+Sorted T[902] -    eehoptt
+----------------
+T[903] - nd of the
+Sorted T[903] -   defhnot
+----------------
+T[904] - line, B ad
+Sorted T[904] -   ,Badeiln
+----------------
+T[905] - opted /* c
+Sorted T[905] -   */cdeopt
+----------------
+T[906] - omment */
+Sorted T[906] -  */emmnot
+----------------
+T[907] - as the com
+Sorted T[907] -   acehmost
+----------------
+T[908] - ment delim
+Sorted T[908] -  deeilmmnt
+----------------
+T[909] - iter, more
+Sorted T[909] -  ,eeimorrt
+----------------
+T[910] - akin to P
+Sorted T[910] -   Paiknot
+----------------
+T[911] - L/1, and a
+Sorted T[911] -   ,/1Laadn
+----------------
+T[912] - llowing co
+Sorted T[912] -  cgillnoow
+----------------
+T[913] - mments to
+Sorted T[913] -  emmnostt
+----------------
+T[914] - appear in
+Sorted T[914] -  aaeinppr
+----------------
+T[915] - the middle
+Sorted T[915] -  ddeehilmt
+----------------
+T[916] - of lines.
+Sorted T[916] -  .efilnos
+----------------
+T[917] - (BCPL's c
+Sorted T[917] -  '(BCLPcs
+----------------
+T[918] - omment sty
+Sorted T[918] -  emmnostty
+----------------
+T[919] - le would b
+Sorted T[919] -   bdellouw
+----------------
+T[920] - e reintrod
+Sorted T[920] -  deeinorrt
+----------------
+T[921] - uced in C+
+Sorted T[921] -   +Ccdeinu
+----------------
+T[922] - +.)[12] Ne
+Sorted T[922] -  )+.12N[]e
+----------------
+T[923] - w B and fi
+Sorted T[923] -    Badfinw
+----------------
+T[924] - rst C rele
+Sorted T[924] -   Ceelrrst
+----------------
+T[925] - ase In 197
+Sorted T[925] -   179Iaens
+----------------
+T[926] - 1 Ritchie
+Sorted T[926] -  1Rcehiit
+----------------
+T[927] - started to
+Sorted T[927] -  adeorsttt
+----------------
+T[928] - improve B
+Sorted T[928] -  Beimoprv
+----------------
+T[929] - , to use t
+Sorted T[929] -    ,eosttu
+----------------
+T[930] - he feature
+Sorted T[930] -  aeeefhrtu
+----------------
+T[931] - s of the m
+Sorted T[931] -    efhmost
+----------------
+T[932] - ore-powerf
+Sorted T[932] - -eefooprrw
+----------------
+T[933] - ul PDP-11.
+Sorted T[933] -  -.11DPPlu
+----------------
+T[934] - A signifi
+Sorted T[934] -  Afgiiins
+----------------
+T[935] - cant addit
+Sorted T[935] -  aacddintt
+----------------
+T[936] - ion was a
+Sorted T[936] -   aainosw
+----------------
+T[937] - character
+Sorted T[937] - aaccehrrt
+----------------
+T[938] - data type.
+Sorted T[938] -  .aadeptty
+----------------
+T[939] - He called
+Sorted T[939] -  Hacdeell
+----------------
+T[940] - this New
+Sorted T[940] -  Nehistw
+----------------
+T[941] - B (NB).[20
+Sorted T[941] -  ().02BBN[
+----------------
+T[942] - ] Thompson
+Sorted T[942] -  T]hmnoops
+----------------
+T[943] - started t
+Sorted T[943] -  adersttt
+----------------
+T[944] - o use NB t
+Sorted T[944] -    BNeostu
+----------------
+T[945] - o write th
+Sorted T[945] -   ehiorttw
+----------------
+T[946] - e Unix ker
+Sorted T[946] -   Ueeiknrx
+----------------
+T[947] - nel, and h
+Sorted T[947] -   ,adehlnn
+----------------
+T[948] - is require
+Sorted T[948] -  eeiiqrrsu
+----------------
+T[949] - ments shap
+Sorted T[949] -  aehmnpsst
+----------------
+T[950] - ed the dir
+Sorted T[950] -   ddeehirt
+----------------
+T[951] - ection of
+Sorted T[951] -  cefinoot
+----------------
+T[952] - the langua
+Sorted T[952] -  aaeghlntu
+----------------
+T[953] - ge develop
+Sorted T[953] -  deeeglopv
+----------------
+T[954] - ment.[20][
+Sorted T[954] - .02[[]emnt
+----------------
+T[955] - 21] Throug
+Sorted T[955] -  12T]ghoru
+----------------
+T[956] - h to 1972,
+Sorted T[956] -   ,1279hot
+----------------
+T[957] - richer ty
+Sorted T[957] -  cehirrty
+----------------
+T[958] - pes were a
+Sorted T[958] -   aeeeprsw
+----------------
+T[959] - dded to th
+Sorted T[959] -   dddehott
+----------------
+T[960] - e NB langu
+Sorted T[960] -   BNaeglnu
+----------------
+T[961] - age. NB ha
+Sorted T[961] -   .BNaaegh
+----------------
+T[962] - d arrays o
+Sorted T[962] -   aadorrsy
+----------------
+T[963] - f int and
+Sorted T[963] -   adfinnt
+----------------
+T[964] - char, and
+Sorted T[964] -  ,aacdhnr
+----------------
+T[965] - to these t
+Sorted T[965] -   eehosttt
+----------------
+T[966] - ypes were
+Sorted T[966] -  eeeprswy
+----------------
+T[967] - added poin
+Sorted T[967] -  adddeinop
+----------------
+T[968] - ters, the
+Sorted T[968] -  ,eehrstt
+----------------
+T[969] - ability to
+Sorted T[969] -  abiilotty
+----------------
+T[970] - generate
+Sorted T[970] - aeeegnrt
+----------------
+T[971] - pointers t
+Sorted T[971] -  einoprstt
+----------------
+T[972] - o other ty
+Sorted T[972] -   ehoortty
+----------------
+T[973] - pes, array
+Sorted T[973] -  ,aaeprrsy
+----------------
+T[974] - s of all t
+Sorted T[974] -    afllost
+----------------
+T[975] - ypes, and
+Sorted T[975] -  ,adenpsy
+----------------
+T[976] - types to b
+Sorted T[976] -   beopstty
+----------------
+T[977] - e returned
+Sorted T[977] -  deeenrrtu
+----------------
+T[978] - from func
+Sorted T[978] -  cffmnoru
+----------------
+T[979] - tions. Arr
+Sorted T[979] -  .Ainorrst
+----------------
+T[980] - ays within
+Sorted T[980] -  ahiinstwy
+----------------
+T[981] - expressio
+Sorted T[981] - eeioprssx
+----------------
+T[982] - ns were ef
+Sorted T[982] -   eeefnrsw
+----------------
+T[983] - fectively
+Sorted T[983] - ceefiltvy
+----------------
+T[984] - treated as
+Sorted T[984] -  aadeerstt
+----------------
+T[985] - pointers.
+Sorted T[985] - .einoprst
+----------------
+T[986] - A new com
+Sorted T[986] -   Acemnow
+----------------
+T[987] - piler was
+Sorted T[987] -  aeilprsw
+----------------
+T[988] - written, a
+Sorted T[988] -  ,aeinrttw
+----------------
+T[989] - nd the lan
+Sorted T[989] -   adehlnnt
+----------------
+T[990] - guage was
+Sorted T[990] -  aaeggsuw
+----------------
+T[991] - renamed C.
+Sorted T[991] -  .Cadeemnr
+----------------
+T[992] - [12] The C
+Sorted T[992] -   12CT[]eh
+----------------
+T[993] - compiler
+Sorted T[993] - ceilmopr
+----------------
+T[994] - and some u
+Sorted T[994] -   ademnosu
+----------------
+T[995] - tilities m
+Sorted T[995] -  eiiilmstt
+----------------
+T[996] - ade with i
+Sorted T[996] -   adehiitw
+----------------
+T[997] - t were inc
+Sorted T[997] -   ceeinrtw
+----------------
+T[998] - luded in V
+Sorted T[998] -   Vddeilnu
+----------------
+T[999] - ersion 2 U
+Sorted T[999] -   2Ueinors
+----------------
+T[1000] - nix, which
+Sorted T[1000] -  ,chhiinwx
+----------------
+T[1001] - is also k
+Sorted T[1001] -   aikloss
+----------------
+T[1002] - nown as Re
+Sorted T[1002] -   Raennosw
+----------------
+T[1003] - search Uni
+Sorted T[1003] -  Uacehinrs
+----------------
+T[1004] - x.[22] Str
+Sorted T[1004] -  .22S[]rtx
+----------------
+T[1005] - uctures an
+Sorted T[1005] -  acenrstuu
+----------------
+T[1006] - d Unix ker
+Sorted T[1006] -   Udeiknrx
+----------------
+T[1007] - nel re-wri
+Sorted T[1007] -  -eeilnrrw
+----------------
+T[1008] - te At Vers
+Sorted T[1008] -   AVeerstt
+----------------
+T[1009] - ion 4 Unix
+Sorted T[1009] -   4Uiinnox
+----------------
+T[1010] - , released
+Sorted T[1010] -  ,adeeelrs
+----------------
+T[1011] - in Novemb
+Sorted T[1011] -  Nbeimnov
+----------------
+T[1012] - er 1973, t
+Sorted T[1012] -   ,1379ert
+----------------
+T[1013] - he Unix ke
+Sorted T[1013] -   Ueehiknx
+----------------
+T[1014] - rnel was e
+Sorted T[1014] -   aeelnrsw
+----------------
+T[1015] - xtensively
+Sorted T[1015] - eeilnstvxy
+----------------
+T[1016] - re-implem
+Sorted T[1016] - -eeilmmpr
+----------------
+T[1017] - ented in C
+Sorted T[1017] -   Cdeeinnt
+----------------
+T[1018] - .[12] By t
+Sorted T[1018] -   .12B[]ty
+----------------
+T[1019] - his time,
+Sorted T[1019] -  ,ehiimst
+----------------
+T[1020] - the C lang
+Sorted T[1020] -   Caeghlnt
+----------------
+T[1021] - uage had a
+Sorted T[1021] -   aaadeghu
+----------------
+T[1022] - cquired so
+Sorted T[1022] -  cdeioqrsu
+----------------
+T[1023] - me powerfu
+Sorted T[1023] -  eefmopruw
+----------------
+T[1024] - l features
+Sorted T[1024] -  aeeflrstu
+----------------
+T[1025] - such as s
+Sorted T[1025] -   achsssu
+----------------
+T[1026] - truct type
+Sorted T[1026] -  ceprtttuy
+----------------
+T[1027] - s. The pre
+Sorted T[1027] -   .Teehprs
+----------------
+T[1028] - processor
+Sorted T[1028] - ceooprrss
+----------------
+T[1029] - was introd
+Sorted T[1029] -  adinorstw
+----------------
+T[1030] - uced aroun
+Sorted T[1030] -  acdenoruu
+----------------
+T[1031] - d 1973 at
+Sorted T[1031] -   1379adt
+----------------
+T[1032] - the urging
+Sorted T[1032] -  egghinrtu
+----------------
+T[1033] - of Alan S
+Sorted T[1033] -   ASaflno
+----------------
+T[1034] - nyder and
+Sorted T[1034] -  addennry
+----------------
+T[1035] - also in re
+Sorted T[1035] -   aeilnors
+----------------
+T[1036] - cognition
+Sorted T[1036] - cgiinnoot
+----------------
+T[1037] - of the use
+Sorted T[1037] -   eefhostu
+----------------
+T[1038] - fulness of
+Sorted T[1038] -  efflnossu
+----------------
+T[1039] - the file-
+Sorted T[1039] -  -eefhilt
+----------------
+T[1040] - inclusion
+Sorted T[1040] - ciilnnosu
+----------------
+T[1041] - mechanisms
+Sorted T[1041] - acehimmnss
+----------------
+T[1042] - available
+Sorted T[1042] - aaabeillv
+----------------
+T[1043] - in BCPL a
+Sorted T[1043] -   BCLPain
+----------------
+T[1044] - nd PL/I. I
+Sorted T[1044] -   ./IILPdn
+----------------
+T[1045] - ts origina
+Sorted T[1045] -  agiinorst
+----------------
+T[1046] - l version
+Sorted T[1046] -  eilnorsv
+----------------
+T[1047] - provided o
+Sorted T[1047] -  ddeiooprv
+----------------
+T[1048] - nly includ
+Sorted T[1048] -  cdillnnuy
+----------------
+T[1049] - ed files a
+Sorted T[1049] -   adeefils
+----------------
+T[1050] - nd simple
+Sorted T[1050] -  deilmnps
+----------------
+T[1051] - string rep
+Sorted T[1051] -  eginprrst
+----------------
+T[1052] - lacements:
+Sorted T[1052] - :aceelmnst
+----------------
+T[1053] - #include
+Sorted T[1053] - #cdeilnu
+----------------
+T[1054] - and #defin
+Sorted T[1054] -  #addefinn
+----------------
+T[1055] - e of param
+Sorted T[1055] -   aaefmopr
+----------------
+T[1056] - eterless m
+Sorted T[1056] -  eeelmrsst
+----------------
+T[1057] - acros. Soo
+Sorted T[1057] -  .Sacooors
+----------------
+T[1058] - n after th
+Sorted T[1058] -   aefhnrtt
+----------------
+T[1059] - at, it was
+Sorted T[1059] -   ,aaisttw
+----------------
+T[1060] - extended,
+Sorted T[1060] - ,ddeeentx
+----------------
+T[1061] - mostly by
+Sorted T[1061] -  blmostyy
+----------------
+T[1062] - Mike Lesk
+Sorted T[1062] -  LMeeikks
+----------------
+T[1063] - and then
+Sorted T[1063] -  adehnnt
+----------------
+T[1064] - by John Re
+Sorted T[1064] -   JRbehnoy
+----------------
+T[1065] - iser, to i
+Sorted T[1065] -   ,eiiorst
+----------------
+T[1066] - ncorporate
+Sorted T[1066] - acenooprrt
+----------------
+T[1067] - macros wi
+Sorted T[1067] -  acimorsw
+----------------
+T[1068] - th argumen
+Sorted T[1068] -  aeghmnrtu
+----------------
+T[1069] - ts and con
+Sorted T[1069] -   acdnnost
+----------------
+T[1070] - ditional c
+Sorted T[1070] -  acdiilnot
+----------------
+T[1071] - ompilation
+Sorted T[1071] - aiilmnoopt
+----------------
+T[1072] - .[12] Unix
+Sorted T[1072] -  .12U[]inx
+----------------
+T[1073] - was one o
+Sorted T[1073] -   aenoosw
+----------------
+T[1074] - f the firs
+Sorted T[1074] -   effhirst
+----------------
+T[1075] - t operatin
+Sorted T[1075] -  aeinoprtt
+----------------
+T[1076] - g system k
+Sorted T[1076] -   egkmssty
+----------------
+T[1077] - ernels imp
+Sorted T[1077] -  eeilmnprs
+----------------
+T[1078] - lemented i
+Sorted T[1078] -  deeeilmnt
+----------------
+T[1079] - n a langua
+Sorted T[1079] -   aaaglnnu
+----------------
+T[1080] - ge other t
+Sorted T[1080] -   eeghortt
+----------------
+T[1081] - han assemb
+Sorted T[1081] -  aabehmnss
+----------------
+T[1082] - ly. Earlie
+Sorted T[1082] -  .Eaeillry
+----------------
+T[1083] - r instance
+Sorted T[1083] -  aceinnrst
+----------------
+T[1084] - s include
+Sorted T[1084] -  cdeilnsu
+----------------
+T[1085] - the Multic
+Sorted T[1085] -  Mcehilttu
+----------------
+T[1086] - s system (
+Sorted T[1086] -   (emsssty
+----------------
+T[1087] - which was
+Sorted T[1087] -  achhisww
+----------------
+T[1088] - written in
+Sorted T[1088] -  eiinnrttw
+----------------
+T[1089] - PL/I) and
+Sorted T[1089] -  )/ILPadn
+----------------
+T[1090] - Master Co
+Sorted T[1090] -  CMaeorst
+----------------
+T[1091] - ntrol Prog
+Sorted T[1091] -  Pglnoorrt
+----------------
+T[1092] - ram (MCP)
+Sorted T[1092] -  ()CMPamr
+----------------
+T[1093] - for the Bu
+Sorted T[1093] -   Befhortu
+----------------
+T[1094] - rroughs B5
+Sorted T[1094] -  5Bghorrsu
+----------------
+T[1095] - 000 (which
+Sorted T[1095] -  (000chhiw
+----------------
+T[1096] - was writt
+Sorted T[1096] -  airsttww
+----------------
+T[1097] - en in ALGO
+Sorted T[1097] -   AGLOeinn
+----------------
+T[1098] - L) in 1961
+Sorted T[1098] -   )1169Lin
+----------------
+T[1099] - . In and a
+Sorted T[1099] -    .Iaadnn
+----------------
+T[1100] - round 1977
+Sorted T[1100] -  1779dnoru
+----------------
